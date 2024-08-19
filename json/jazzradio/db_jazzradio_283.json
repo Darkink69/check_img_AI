@@ -1,0 +1,29 @@
+[
+  {
+    "channel_id": 283,
+    "artist": "Sam Levine",
+    "title": "The Christmas Song",
+    "track": "Sam Levine - The Christmas Song",
+    "length": 233,
+    "track_id": 723925,
+    "release": "Christmas Sax",
+    "art_url": "//cdn-images.audioaddict.com/0/5/e/b/4/2/05eb425296c410015f510f31bac8111d.jpg",
+    "description_cover": "a picture taken from a window of a christmas tree with a lit fireplace and a person sitting in a chair in front of it with a lit candle",
+    "description_tags": [
+      "picture",
+      "taken",
+      "window",
+      "christmas",
+      "tree",
+      "lit",
+      "fireplace",
+      "person",
+      "sitting",
+      "chair",
+      "lit",
+      "candle"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "channel_id": 40,
+    "artist": "Bette Midler",
+    "title": "O Come, O Come, Emmanuel",
+    "track": "Bette Midler - O Come, O Come, Emmanuel",
+    "length": 190,
+    "track_id": 906071,
+    "release": "Cool Yule",
+    "art_url": "//cdn-images.audioaddict.com/c/c/5/e/1/7/cc5e177d4f3fcd19b3a7b82a31688a37.jpg",
+    "description_cover": "a close up of a person in a costume on a snow covered background with snowflakes and snowflakes around them and a person in a red wig",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "costume",
+      "snow",
+      "covered",
+      "background",
+      "snowflakes",
+      "snowflakes",
+      "around",
+      "them",
+      "person",
+      "red",
+      "wig"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7847907543182373,
+        "box": [
+          294,
+          89,
+          83,
+          79
+        ]
+      }
+    ],
+    "nsfw": false
+  }
+]

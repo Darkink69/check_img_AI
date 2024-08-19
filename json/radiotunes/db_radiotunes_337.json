@@ -1,0 +1,86 @@
+[
+  {
+    "channel_id": 337,
+    "artist": "The Temptations",
+    "title": "Silent Night",
+    "track": "The Temptations - Silent Night",
+    "length": 142,
+    "track_id": 905556,
+    "release": "A Motown Christmas",
+    "art_url": "//cdn-images.audioaddict.com/d/5/d/0/b/b/d5d0bb21e8507a95554673b948ddd21f.jpg",
+    "description_cover": "the temptations 20th century masters 20th century masters the temptations 20th century masters the temptations 20th century masters the temptations the temptations the temptations",
+    "description_tags": [
+      "temptations",
+      "20th",
+      "century",
+      "masters",
+      "20th",
+      "century",
+      "masters",
+      "temptations",
+      "20th",
+      "century",
+      "masters",
+      "temptations",
+      "20th",
+      "century",
+      "masters",
+      "temptations",
+      "temptations",
+      "temptations"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.4538626968860626,
+        "box": [
+          334,
+          117,
+          25,
+          22
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.41066235303878784,
+        "box": [
+          116,
+          117,
+          24,
+          25
+        ]
+      },
+      {
+        "class": "FEET_COVERED",
+        "score": 0.4083539545536041,
+        "box": [
+          30,
+          351,
+          29,
+          32
+        ]
+      },
+      {
+        "class": "FEET_COVERED",
+        "score": 0.30964475870132446,
+        "box": [
+          167,
+          345,
+          32,
+          34
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.2889581024646759,
+        "box": [
+          58,
+          122,
+          25,
+          23
+        ]
+      }
+    ],
+    "nsfw": false
+  }
+]
