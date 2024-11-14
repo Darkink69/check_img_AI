@@ -1,0 +1,1474 @@
+[
+  {
+    "channel_id": 381,
+    "artist": "Edita Gruberová, Delores Ziegler, Don Bernadini et. al; German National Opera Orchestra & Chorus, Orchestre Philharmonique de Strasbourg, Friedrich Haider",
+    "title": "Roberto Devereux (3 Acts) [G. Donizetti]",
+    "track": "Edita Gruberová, Delores Ziegler, Don Bernadini et. al; German National Opera Orchestra & Chorus, Orchestre Philharmonique de Strasbourg, Friedrich Haider - Roberto Devereux (3 Acts) [G. Donizetti]",
+    "length": 7786,
+    "track_id": 3006255,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/4/9/d/e/d/e/49dedea60b6eb37d93477f2098239085.jpg",
+    "description_cover": "a close up of a painting of a woman wearing a tiable and a crown on her head with a green background and a blue sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "woman",
+      "wearing",
+      "tiable",
+      "crown",
+      "her",
+      "head",
+      "green",
+      "background",
+      "blue",
+      "sky",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8657147884368896,
+        "box": [
+          386,
+          341,
+          280,
+          307
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.3302401900291443,
+        "box": [
+          329,
+          895,
+          190,
+          105
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "M. Freni, L. Pavarotti, C. Ludwig, R. Kerns, Vienna Philharmonic Orchestra, H. von Karajan",
+    "title": "Madame Butterfly (3 Acts) [G. Puccini]",
+    "track": "M. Freni, L. Pavarotti, C. Ludwig, R. Kerns, Vienna Philharmonic Orchestra, H. von Karajan - Madame Butterfly (3 Acts) [G. Puccini]",
+    "length": 8739,
+    "track_id": 1260448,
+    "release": "Puccini - Madama Butterfly (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/3/e/a/0/a/6/3ea0a62720d90b83ab4684ecfcddacf2.png",
+    "description_cover": "a close up of a cover of a musical album with a woman in a white dress and a man in a black suit and a woman in a white dress",
+    "description_tags": [
+      "close",
+      "up",
+      "cover",
+      "musical",
+      "album",
+      "woman",
+      "white",
+      "dress",
+      "man",
+      "black",
+      "suit",
+      "woman",
+      "white",
+      "dress"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "M. Salminen, B. Terfel, S. Keenlyside, et. al., Chamber Orchestra of Europe, C. Abbado",
+    "title": "Don Giovanni, K. 527 (2 Acts) [W.A. Mozart]",
+    "track": "M. Salminen, B. Terfel, S. Keenlyside, et. al., Chamber Orchestra of Europe, C. Abbado - Don Giovanni, K. 527 (2 Acts) [W.A. Mozart]",
+    "length": 9939,
+    "track_id": 1260445,
+    "release": "Mozart - Don Giovanni CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/9/8/d/6/0/698d607b36b5b73b14e8efa156a25220.jpg",
+    "description_cover": "arafed image of a woman is cutting a man's leg with a knife in a movie poster for don giovannini, the italian opera",
+    "description_tags": [
+      "arafed",
+      "image",
+      "woman",
+      "cutting",
+      "man's",
+      "leg",
+      "knife",
+      "movie",
+      "poster",
+      "don",
+      "giovannini,",
+      "italian",
+      "opera"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Leontyne Price, Giuseppe di Stefano, Giuseppe Taddei et. al., Wiener Philharmoniker, Herbert von Karajan",
+    "title": "Tosca (3 Acts), [G. Puccini] ",
+    "track": "Leontyne Price, Giuseppe di Stefano, Giuseppe Taddei et. al., Wiener Philharmoniker, Herbert von Karajan - Tosca (3 Acts), [G. Puccini] ",
+    "length": 6798,
+    "track_id": 2951185,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/d/e/2/8/9/ede2891617261e7004ae7b5e748dea4d.jpg",
+    "description_cover": "a close up of a person kissing a woman on a cover of a magazine with a stamp on it that says toscaa, a place of sale",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "kissing",
+      "woman",
+      "cover",
+      "magazine",
+      "stamp",
+      "says",
+      "toscaa,",
+      "place",
+      "sale"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "J. Hadley, C. Gasdia, B. Fassbender, et. al., Welsh National Opera, C. Rizzi",
+    "title": "Faust (4 Acts) [C. Gounod]",
+    "track": "J. Hadley, C. Gasdia, B. Fassbender, et. al., Welsh National Opera, C. Rizzi - Faust (4 Acts) [C. Gounod]",
+    "length": 11435,
+    "track_id": 1260441,
+    "release": "Gounod - Faust CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/f/9/a/e/1/df9ae1bf2c75608b960ec4371ed0add0.jpg",
+    "description_cover": "a painting of a man playing a piano in front of a painting of a man on a piano and a woman sitting at a piano in the background",
+    "description_tags": [
+      "painting",
+      "man",
+      "playing",
+      "piano",
+      "painting",
+      "man",
+      "piano",
+      "woman",
+      "sitting",
+      "piano",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Lenneke Ruiten, Florie Valiquette, Etc.; Christophe Rousset: Les Talens Lyriques, Namur Chamber Choir",
+    "title": "Armida, 3 Acts [A. Salieri]",
+    "track": "Lenneke Ruiten, Florie Valiquette, Etc.; Christophe Rousset: Les Talens Lyriques, Namur Chamber Choir - Armida, 3 Acts [A. Salieri]",
+    "length": 7535,
+    "track_id": 3024822,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/d/e/5/3/a/2de53af3606d8cd355fd8cbe47c76f4d.jpg",
+    "description_cover": "a close up of a cloud with a sky background and a text that reads armida, les tans lyrrisques christophe rousset",
+    "description_tags": [
+      "close",
+      "up",
+      "cloud",
+      "sky",
+      "background",
+      "text",
+      "reads",
+      "armida,",
+      "les",
+      "tans",
+      "lyrrisques",
+      "christophe",
+      "rousset"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Joan Sutherland, Luciano Pavarotti, Montserrat Caballe, Nicolai Ghiaurov, The John Alldis Choir, London Philharmonic Orchestra, Zubin Mehta",
+    "title": "Turandot (3 Acts)",
+    "track": "Joan Sutherland, Luciano Pavarotti, Montserrat Caballe, Nicolai Ghiaurov, The John Alldis Choir, London Philharmonic Orchestra, Zubin Mehta - Turandot (3 Acts)",
+    "length": 7071,
+    "track_id": 2962251,
+    "release": "Turandot (1972)",
+    "art_url": "//cdn-images.audioaddict.com/e/0/3/8/c/9/e038c998531cba063d8f5a5a8d365890.jpg",
+    "description_cover": "a close up of a statue of a dog with a large head and tail on a table with a white background and a blue sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "statue",
+      "dog",
+      "large",
+      "head",
+      "tail",
+      "table",
+      "white",
+      "background",
+      "blue",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Mady Mesplé, Charles Burles, et. al., Opéra-Comique Orchestra & Chorus, Alain Lombard",
+    "title": "Lakmé (3 Acts) [L. Delibes]",
+    "track": "Mady Mesplé, Charles Burles, et. al., Opéra-Comique Orchestra & Chorus, Alain Lombard - Lakmé (3 Acts) [L. Delibes]",
+    "length": 8980,
+    "track_id": 3050909,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/a/1/1/c/d/7a11cd88fdca629f9a577a65f17896bb.jpg",
+    "description_cover": "a close up of a record with a picture of a woman on it and a picture of a man on a trumpet on the cover of a magazine",
+    "description_tags": [
+      "close",
+      "up",
+      "record",
+      "picture",
+      "woman",
+      "picture",
+      "man",
+      "trumpet",
+      "cover",
+      "magazine"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6062740087509155,
+        "box": [
+          593,
+          567,
+          55,
+          59
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Anna Reynolds, Bernd Weikl, Teresa Kubiak, Julia Hamari, et. al., Royal Opera House Covent Garden Orchestra, John Aldis Choir, Georg Solti",
+    "title": "Eugene Onegin, Op. 24 (3 Acts) [P.I. Tchaikovsky]",
+    "track": "Anna Reynolds, Bernd Weikl, Teresa Kubiak, Julia Hamari, et. al., Royal Opera House Covent Garden Orchestra, John Aldis Choir, Georg Solti - Eugene Onegin, Op. 24 (3 Acts) [P.I. Tchaikovsky]",
+    "length": 8599,
+    "track_id": 3028102,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/2/4/5/2/1/0/245210546438eb3f53bdb8cefa267a4a.jpg",
+    "description_cover": "a close up of a poster with a bunch of different people on it's sides and a plane in the background with a sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "bunch",
+      "different",
+      "people",
+      "it's",
+      "sides",
+      "plane",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "C. Bergonzi, F. Cossotto, A. Martino, M. Gracia Allegri, G. Guelfi Orchestra del Teatro alla Scala di Milano, H. von Karajan",
+    "title": "Cavalleria Rusticana [P. Mascagni]",
+    "track": "C. Bergonzi, F. Cossotto, A. Martino, M. Gracia Allegri, G. Guelfi Orchestra del Teatro alla Scala di Milano, H. von Karajan - Cavalleria Rusticana [P. Mascagni]",
+    "length": 4862,
+    "track_id": 2917693,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/7/6/5/b/f/7765bf323705ae35b782b86b449089ae.jpg",
+    "description_cover": "a close up of a red book with a gold logo on it and a blue seal on the cover of it and a blue seal on the back",
+    "description_tags": [
+      "close",
+      "up",
+      "red",
+      "book",
+      "gold",
+      "logo",
+      "blue",
+      "seal",
+      "cover",
+      "blue",
+      "seal",
+      "back"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "A. Harteros, J. Kaufmann, E. Schrott et al., Orchestra e Coro Dell'Accademia Nazionale Di Santa Cecilia, A. Pappano",
+    "title": "Aida (4 Acts) [G. Verdi]",
+    "track": "A. Harteros, J. Kaufmann, E. Schrott et al., Orchestra e Coro Dell'Accademia Nazionale Di Santa Cecilia, A. Pappano - Aida (4 Acts) [G. Verdi]",
+    "length": 8746,
+    "track_id": 1260453,
+    "release": "Verdi - Aida",
+    "art_url": "//cdn-images.audioaddict.com/4/d/4/d/4/5/4d4d45c2eef868633fdfb8267813f647.jpg",
+    "description_cover": "a black and gold poster with the words, verdiia, and the egyptian symbols on it, in gold on a black background with a gold stripe",
+    "description_tags": [
+      "black",
+      "gold",
+      "poster",
+      "words,",
+      "verdiia,",
+      "egyptian",
+      "symbols",
+      "it,",
+      "gold",
+      "black",
+      "background",
+      "gold",
+      "stripe"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "R. Alagna, A. Gheorghiu, J. van Dam, S. Keenlyside et. al., Orchestre du Capitole de Toulouse, M. Plasson",
+    "title": "Roméo et Juliette, 3 Acts [C. Gounod]",
+    "track": "R. Alagna, A. Gheorghiu, J. van Dam, S. Keenlyside et. al., Orchestre du Capitole de Toulouse, M. Plasson - Roméo et Juliette, 3 Acts [C. Gounod]",
+    "length": 10776,
+    "track_id": 3059483,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/8/d/7/4/7/d8d747533df8962a4e41cc7eaeee7957.jpg",
+    "description_cover": "a picture of a painting of a building with arches and arches in the background, and a text that reads,'renio e juliette '",
+    "description_tags": [
+      "picture",
+      "painting",
+      "building",
+      "arches",
+      "arches",
+      "background,",
+      "text",
+      "reads,'renio",
+      "e",
+      "juliette"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Placido Domingo, Piero Cappuccilli, Ghena Dimitrova et. al., Orchester der Deutschen Oper Berlin, Giuseppe Sinopoli",
+    "title": "Nabucco (4 Acts) [G. Verdi]",
+    "track": "Placido Domingo, Piero Cappuccilli, Ghena Dimitrova et. al., Orchester der Deutschen Oper Berlin, Giuseppe Sinopoli - Nabucco (4 Acts) [G. Verdi]",
+    "length": 3891,
+    "track_id": 3047108,
+    "release": "Verdi: Nabucco",
+    "art_url": "//cdn-images.audioaddict.com/f/2/c/a/e/f/f2caef717cdd52b747be1715e0b16a3a.jpg",
+    "description_cover": "arafed photograph of a man in a black and white striped robe holding a pair of scissors in his right hand and a red background with a black and white stripe",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "black",
+      "white",
+      "striped",
+      "robe",
+      "holding",
+      "pair",
+      "scissors",
+      "right",
+      "hand",
+      "red",
+      "background",
+      "black",
+      "white",
+      "stripe"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6075960993766785,
+        "box": [
+          825,
+          484,
+          166,
+          162
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Peter Schreier, Margaret Price, Mikael Melbye et. al., Staatskapelle Dresden, Colin Davis",
+    "title": "Die Zauberflöte, K620 (2 Acts) [W.A. Mozart]",
+    "track": "Peter Schreier, Margaret Price, Mikael Melbye et. al., Staatskapelle Dresden, Colin Davis - Die Zauberflöte, K620 (2 Acts) [W.A. Mozart]",
+    "length": 9758,
+    "track_id": 2951186,
+    "release": "Complete Mozart Edition Volume 16 - German Operas",
+    "art_url": "//cdn-images.audioaddict.com/1/4/d/8/8/8/14d8886ec980f17aea1543183fff6179.jpg",
+    "description_cover": "a close up of a clock on a wall with a person in a red dress in the background and a gold sunburst on the wall behind it",
+    "description_tags": [
+      "close",
+      "up",
+      "clock",
+      "wall",
+      "person",
+      "red",
+      "dress",
+      "background",
+      "gold",
+      "sunburst",
+      "wall",
+      "behind"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Fleur Barron, Matthew Brook, Giulia Semenzato etc., La Nuova Musica, David Bates",
+    "title": "Dido & Aeneas (3 Acts) [H. Purcell]",
+    "track": "Fleur Barron, Matthew Brook, Giulia Semenzato etc., La Nuova Musica, David Bates - Dido & Aeneas (3 Acts) [H. Purcell]",
+    "length": 3451,
+    "track_id": 3078330,
+    "release": "Purcell Dido & Aeneas",
+    "art_url": "//cdn-images.audioaddict.com/b/3/6/c/d/6/b36cd604e94f420fd586504b807f5357.jpg",
+    "description_cover": "a close up of a blue wave with a black background and a white text on it that reads purcell dido and aenesa, with a black background of blue waves",
+    "description_tags": [
+      "close",
+      "up",
+      "blue",
+      "wave",
+      "black",
+      "background",
+      "white",
+      "text",
+      "reads",
+      "purcell",
+      "dido",
+      "aenesa,",
+      "black",
+      "background",
+      "blue",
+      "waves"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Melody Moore, Brian Jagde, Lester Lynch etc., Dresden Philharmonic Orchestra, MDR Chorus Leipzig, Marek Janowski",
+    "title": "Il Tabarro (1 Act) [G. Puccini]",
+    "track": "Melody Moore, Brian Jagde, Lester Lynch etc., Dresden Philharmonic Orchestra, MDR Chorus Leipzig, Marek Janowski - Il Tabarro (1 Act) [G. Puccini]",
+    "length": 2980,
+    "track_id": 3007666,
+    "release": "Puccini: Il Tabarro",
+    "art_url": "//cdn-images.audioaddict.com/b/7/4/2/3/c/b7423cf0b9568781bbdf19302f7cd5d1.jpg",
+    "description_cover": "there is a man standing on a boat in the water by a bridge and a bridge in the background with a person standing on a boat in the water",
+    "description_tags": [
+      "man",
+      "standing",
+      "boat",
+      "water",
+      "bridge",
+      "bridge",
+      "background",
+      "person",
+      "standing",
+      "boat",
+      "water"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Rolando Villazón, Sophie Koch, Etc., Royal Opera House Orchestra & Chorus, Antonio Pappano",
+    "title": "Werther (4 Acts) [J. Massenet]",
+    "track": "Rolando Villazón, Sophie Koch, Etc., Royal Opera House Orchestra & Chorus, Antonio Pappano - Werther (4 Acts) [J. Massenet]",
+    "length": 7931,
+    "track_id": 3082358,
+    "release": "Massenet: Werther",
+    "art_url": "//cdn-images.audioaddict.com/1/b/4/5/1/6/1b451659c863d237529179eb6d849737.jpg",
+    "description_cover": "a close up of a person sitting at a table with a book in hand and a candle on a table with a candle holder and a candle holder",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "sitting",
+      "table",
+      "book",
+      "hand",
+      "candle",
+      "table",
+      "candle",
+      "holder",
+      "candle",
+      "holder"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Giuseppe Taddei, Rolando Panerai, Etc., Vienna Philharmonic Orchestra, Vienna State Opera Chorus, Herbert Von Karajan",
+    "title": "Falstaff, 3 Acts [G. Verdi]",
+    "track": "Giuseppe Taddei, Rolando Panerai, Etc., Vienna Philharmonic Orchestra, Vienna State Opera Chorus, Herbert Von Karajan - Falstaff, 3 Acts [G. Verdi]",
+    "length": 7728,
+    "track_id": 3022591,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/9/9/6/e/e/c/996eec1be0280807922ca03510da843d.jpg",
+    "description_cover": "arafed image of a man sitting on a bench with a glass of wine in his hand and a caption of the title of the film",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "sitting",
+      "bench",
+      "glass",
+      "wine",
+      "hand",
+      "caption",
+      "title",
+      "film"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.2876953184604645,
+        "box": [
+          566,
+          223,
+          102,
+          101
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Joan Sutherland, Luciano Pavarotti, Etc.; English Chamber Orchestra, Ambrosian Opera Chorus, Richard Bonynge",
+    "title": "L'elisir d'amore (2 Acts) [G. Donizetti]",
+    "track": "Joan Sutherland, Luciano Pavarotti, Etc.; English Chamber Orchestra, Ambrosian Opera Chorus, Richard Bonynge - L'elisir d'amore (2 Acts) [G. Donizetti]",
+    "length": 8419,
+    "track_id": 3006256,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/e/1/3/5/c/f/e135cf12cc08b0cd9172800135dc7670.jpg",
+    "description_cover": "arafed image of a painting of a man and woman in period clothing, with a sword and a woman in a green dress, and a man in a hat",
+    "description_tags": [
+      "arafed",
+      "image",
+      "painting",
+      "man",
+      "woman",
+      "period",
+      "clothing,",
+      "sword",
+      "woman",
+      "green",
+      "dress,",
+      "man",
+      "hat"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Gabriela Beňačková, Plácido Domingo, Piero Cappuccilli et. al., Wiener Staatsopernchor, Orchester der Wiener Staats, Nello Santi",
+    "title": "Andrea Chénier (4 Acts) [U. Giordano]",
+    "track": "Gabriela Beňačková, Plácido Domingo, Piero Cappuccilli et. al., Wiener Staatsopernchor, Orchester der Wiener Staats, Nello Santi - Andrea Chénier (4 Acts) [U. Giordano]",
+    "length": 8351,
+    "track_id": 3087790,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/5/2/8/0/c/b/5280cb0d9e9e70531b4550dae48a6aec.jpg",
+    "description_cover": "a close up of a man wearing a hat and a coat with a name on it and a name on the back of the cover of a book",
+    "description_tags": [
+      "close",
+      "up",
+      "man",
+      "wearing",
+      "hat",
+      "coat",
+      "name",
+      "name",
+      "back",
+      "cover",
+      "book"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7260649800300598,
+        "box": [
+          829,
+          656,
+          364,
+          364
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "D. Fischer-Dieskau, A. Dallapozza, G. Janowitz, R. Kollo et al., Wiener Philharmoniker, Leonard Bernstein",
+    "title": "Fidelio (2 Acts) [L. van Beethoven]",
+    "track": "D. Fischer-Dieskau, A. Dallapozza, G. Janowitz, R. Kollo et al., Wiener Philharmoniker, Leonard Bernstein - Fidelio (2 Acts) [L. van Beethoven]",
+    "length": 8090,
+    "track_id": 1260435,
+    "release": "Complete Beethoven Edition Volume 04 - Leonore, Fidelio",
+    "art_url": "//cdn-images.audioaddict.com/2/3/b/6/f/8/23b6f8f61d7d5807cad3a864e6020976.png",
+    "description_cover": "beethoven masterpieces, vol 1 cd cover image with a painting of a man holding a pen and writing a letter in a book, with a red scarf",
+    "description_tags": [
+      "beethoven",
+      "masterpieces,",
+      "vol",
+      "1",
+      "cd",
+      "cover",
+      "image",
+      "painting",
+      "man",
+      "holding",
+      "pen",
+      "writing",
+      "letter",
+      "book,",
+      "red",
+      "scarf"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8780784606933594,
+        "box": [
+          126,
+          49,
+          110,
+          110
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Angela Gheorghiu, Roberto Alagna, Etc., La Monnaie Theatre Orchestra & Chorus, Antonio Pappano",
+    "title": "Manon (4 Acts) [J. Massenet]",
+    "track": "Angela Gheorghiu, Roberto Alagna, Etc., La Monnaie Theatre Orchestra & Chorus, Antonio Pappano - Manon (4 Acts) [J. Massenet]",
+    "length": 9798,
+    "track_id": 3082357,
+    "release": "Massenet: Manon",
+    "art_url": "//cdn-images.audioaddict.com/0/e/d/4/2/9/0ed429ae87deb4e32022303f86ddc606.jpg",
+    "description_cover": "a picture of a picture of a woman laying on a beach with a bird in the background and a man in a blue coat on the beach with a boat",
+    "description_tags": [
+      "picture",
+      "picture",
+      "woman",
+      "laying",
+      "beach",
+      "bird",
+      "background",
+      "man",
+      "blue",
+      "coat",
+      "beach",
+      "boat"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "S. Milnes, F. Cossotto, J. Carreras et. al., New Philharmonia Orchestra, R. Muti",
+    "title": "MacBeth (4 Acts) [G. Verdi]",
+    "track": "S. Milnes, F. Cossotto, J. Carreras et. al., New Philharmonia Orchestra, R. Muti - MacBeth (4 Acts) [G. Verdi]",
+    "length": 9074,
+    "track_id": 1260456,
+    "release": "Verdi: Macbeth [Muti] (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/a/1/5/4/d/2/a154d2a41eda89c4ef1b6016fb98a34c.jpg",
+    "description_cover": "a close up of a cd cover with a pot of food on it and a candle in the middle of it with the words oacreth",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "pot",
+      "food",
+      "candle",
+      "middle",
+      "words",
+      "oacreth"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "T. Berganza, P. Domingo et. al. London Symphony Orchestra, C. Abbado",
+    "title": "Carmen (3 Acts) [G. Bizet]",
+    "track": "T. Berganza, P. Domingo et. al. London Symphony Orchestra, C. Abbado - Carmen (3 Acts) [G. Bizet]",
+    "length": 9453,
+    "track_id": 1260437,
+    "release": "Carmen - Act 1 & 2 (Beginning)",
+    "art_url": "//cdn-images.audioaddict.com/7/3/e/d/8/f/73ed8fded436dc08cd178ed3027f5414.png",
+    "description_cover": "a close up of a cd cover of a woman dancing with other people in the background and a man in a suit and hat in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "woman",
+      "dancing",
+      "other",
+      "people",
+      "background",
+      "man",
+      "suit",
+      "hat",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Cheryl Barker, Rosario La Spina, Bruce Martin, Opera Australia, Richard Hickox",
+    "title": "Rusalka, B. 203, Op. 114 (3 Acts) [A. Dvorak]",
+    "track": "Cheryl Barker, Rosario La Spina, Bruce Martin, Opera Australia, Richard Hickox - Rusalka, B. 203, Op. 114 (3 Acts) [A. Dvorak]",
+    "length": 9161,
+    "track_id": 2876054,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/1/4/4/5/9/a14459b8dbb1f17161e4c773c410428d.jpg",
+    "description_cover": "a close up of a person in a white dress on a stage with a microphone and a person in a black suit and tie in the background with a glass",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "white",
+      "dress",
+      "stage",
+      "microphone",
+      "person",
+      "black",
+      "suit",
+      "tie",
+      "background",
+      "glass"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.3989972472190857,
+        "box": [
+          779,
+          107,
+          111,
+          106
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Montserrat Figueras, Furio Zanasi, Arianna Savall, Le Concert des Nations, La Capella Reial de Catalunya, Jordi Savall",
+    "title": "La favola d'Orfeo, SV318, 4 Acts [C. Monteverdi]",
+    "track": "Montserrat Figueras, Furio Zanasi, Arianna Savall, Le Concert des Nations, La Capella Reial de Catalunya, Jordi Savall - La favola d'Orfeo, SV318, 4 Acts [C. Monteverdi]",
+    "length": 6849,
+    "track_id": 3022592,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/7/7/7/8/4/a77784c364e11ada008bb64935c0e1a7.jpg",
+    "description_cover": "a close up of a painting of a woman holding a pole with a sky background and clouds in the background and a sky background with clouds and a sky",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "woman",
+      "holding",
+      "pole",
+      "sky",
+      "background",
+      "clouds",
+      "background",
+      "sky",
+      "background",
+      "clouds",
+      "sky"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6011772155761719,
+        "box": [
+          375,
+          248,
+          178,
+          161
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.32337865233421326,
+        "box": [
+          450,
+          573,
+          194,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "R. Crespin, Y. Minton, M. Jungwirth, H. Donath, Wiener Philharmoniker, G. Solti",
+    "title": "Der Rosenkavalier, Op.59 (3 Acts)  [R. Strauss]",
+    "track": "R. Crespin, Y. Minton, M. Jungwirth, H. Donath, Wiener Philharmoniker, G. Solti - Der Rosenkavalier, Op.59 (3 Acts)  [R. Strauss]",
+    "length": 11987,
+    "track_id": 1260450,
+    "release": "Strauss: Der Rosenkavalier, Op. 59",
+    "art_url": "//cdn-images.audioaddict.com/8/c/e/4/8/4/8ce4848f89fca21378fccf1abd2f3fa0.png",
+    "description_cover": "a close up of a poster with a woman's face on it's cover of a book, with a red circle in the middle of the cover",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "woman's",
+      "face",
+      "it's",
+      "cover",
+      "book,",
+      "red",
+      "circle",
+      "middle",
+      "cover"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.32203376293182373,
+        "box": [
+          -1,
+          97,
+          357,
+          393
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Lucy Crowe, Gerald Finley, Sophia Burgos, London Symphony Orchestra, Simon Rattle",
+    "title": "The Cunning Little Vixen (Příhody lišky Bystroušky), JW I/9  (3 Acts) [L. Janáček]",
+    "track": "Lucy Crowe, Gerald Finley, Sophia Burgos, London Symphony Orchestra, Simon Rattle - The Cunning Little Vixen (Příhody lišky Bystroušky), JW I/9  (3 Acts) [L. Janáček]",
+    "length": 5774,
+    "track_id": 3026396,
+    "release": "Janáček: The Cunning Little Vixen, Sinfonietta",
+    "art_url": "//cdn-images.audioaddict.com/2/2/2/d/b/f/222dbf40506ae50b95b90767aa7e8205.jpg",
+    "description_cover": "a close up of a cat with a name on it's face and a cat's tail with a cat's head in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cat",
+      "name",
+      "it's",
+      "face",
+      "cat's",
+      "tail",
+      "cat's",
+      "head",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "E. Gruberova, B. Fassbaender et. al., G. Sinopoli",
+    "title": "Rigoletto (3 Acts) [G. Verdi]",
+    "track": "E. Gruberova, B. Fassbaender et. al., G. Sinopoli - Rigoletto (3 Acts) [G. Verdi]",
+    "length": 7678,
+    "track_id": 1260454,
+    "release": "Verdi - Rigoletto CD1",
+    "art_url": "//cdn-images.audioaddict.com/8/0/d/8/d/b/80d8db6a0e31a36c4865cef3d48e40a8.jpg",
+    "description_cover": "a close up of a person wearing a red and yellow jacket and a yellow and red jacket with horns on it and a yellow and red jacket with a yellow jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "wearing",
+      "red",
+      "yellow",
+      "jacket",
+      "yellow",
+      "red",
+      "jacket",
+      "horns",
+      "yellow",
+      "red",
+      "jacket",
+      "yellow",
+      "jacket"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Beverly Sills, Alfredo Kraus, Etc.; London Symphony Orchestra, Ambrosian Opera Chorus, Sarah Caldwell",
+    "title": "Don Pasquale (3 Acts) [G. Donizetti]",
+    "track": "Beverly Sills, Alfredo Kraus, Etc.; London Symphony Orchestra, Ambrosian Opera Chorus, Sarah Caldwell - Don Pasquale (3 Acts) [G. Donizetti]",
+    "length": 7335,
+    "track_id": 3006254,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/4/5/3/5/d/a4535d517aa2363429be474ee6764df6.jpg",
+    "description_cover": "don pasquale cd cover with ring and ring on it's back cover, with the words don pasquale written in white and red",
+    "description_tags": [
+      "don",
+      "pasquale",
+      "cd",
+      "cover",
+      "ring",
+      "ring",
+      "it's",
+      "back",
+      "cover,",
+      "words",
+      "don",
+      "pasquale",
+      "written",
+      "white",
+      "red"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Ileana Cotrubas, Placido Domingo, Sherrill Milnes, Bayerisches Staatsorchester, Carlos Kleiber",
+    "title": "La Traviata, 3 Acts [G. Verdi]",
+    "track": "Ileana Cotrubas, Placido Domingo, Sherrill Milnes, Bayerisches Staatsorchester, Carlos Kleiber - La Traviata, 3 Acts [G. Verdi]",
+    "length": 6600,
+    "track_id": 2917692,
+    "release": "La Traviata",
+    "art_url": "//cdn-images.audioaddict.com/7/6/f/0/f/2/76f0f2daca23d0c5933a0ca307289970.jpg",
+    "description_cover": "a close up of a magazine with a woman in a dress on it's cover and a cd in the background with a blue ribbon around it",
+    "description_tags": [
+      "close",
+      "up",
+      "magazine",
+      "woman",
+      "dress",
+      "it's",
+      "cover",
+      "cd",
+      "background",
+      "blue",
+      "ribbon",
+      "around"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8591246604919434,
+        "box": [
+          542,
+          455,
+          191,
+          222
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.28516238927841187,
+        "box": [
+          575,
+          889,
+          176,
+          111
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Anna Netrebko, Rolando Villazón, Chor des Bayerischen Rundfunks, Symphonieorchester, Bertrand de Billy",
+    "title": "La Bohème (4 Acts) [G. Puccini]",
+    "track": "Anna Netrebko, Rolando Villazón, Chor des Bayerischen Rundfunks, Symphonieorchester, Bertrand de Billy - La Bohème (4 Acts) [G. Puccini]",
+    "length": 6328,
+    "track_id": 1260447,
+    "release": "Puccin - La Boheme CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/1/f/8/b/0/61f8b069f52691cc886a4338fc9a0539.jpg",
+    "description_cover": "a close up of a person standing next to a pole with a sign on it that says la boheme, and a picture of a man holding a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "standing",
+      "next",
+      "pole",
+      "sign",
+      "says",
+      "la",
+      "boheme,",
+      "picture",
+      "man",
+      "holding",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7342676520347595,
+        "box": [
+          262,
+          179,
+          137,
+          149
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.41950929164886475,
+        "box": [
+          534,
+          211,
+          119,
+          133
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "M. Price, Carlo Cossutta et al., Wiener Philharmoniker, G. Solti",
+    "title": "Otello (4 Acts) [G. Verdi]",
+    "track": "M. Price, Carlo Cossutta et al., Wiener Philharmoniker, G. Solti - Otello (4 Acts) [G. Verdi]",
+    "length": 7856,
+    "track_id": 1260455,
+    "release": "Verdi - Otello CD1",
+    "art_url": "//cdn-images.audioaddict.com/f/a/2/9/8/4/fa2984cb93a49b5cf1e344761eb1fca9.jpg",
+    "description_cover": "a close up of a magazine cover with a statue on the cover of it and a woman on the cover of it with a clock in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "magazine",
+      "cover",
+      "statue",
+      "cover",
+      "woman",
+      "cover",
+      "clock",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "K. Battle, P. Domingo, F. Lopardo, L. Gallo, The Chamber Orchestra Of Europe, C. Abbado",
+    "title": "Il Barbiere di Siviglia (2 Acts) [G. Rossini]",
+    "track": "K. Battle, P. Domingo, F. Lopardo, L. Gallo, The Chamber Orchestra Of Europe, C. Abbado - Il Barbiere di Siviglia (2 Acts) [G. Rossini]",
+    "length": 9296,
+    "track_id": 1260449,
+    "release": "Rossini - Il Barbiere di Siviglia CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/3/2/6/8/7/932687f79526410a7d128f94f7d8ad7d.jpg",
+    "description_cover": "a close up of a person holding a guitar in a suit and tie with a tie on his head and a tie around his neck and neck,",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "holding",
+      "guitar",
+      "suit",
+      "tie",
+      "tie",
+      "head",
+      "tie",
+      "around",
+      "neck",
+      "neck,"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8066469430923462,
+        "box": [
+          449,
+          273,
+          146,
+          186
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "K.Te Kanawa, A. Murray, M. McLaughlin, et. al., Wiener Philharmoniker, J. Levine",
+    "title": "Cosi fan tutte (2 Acts) [W.A. Mozart]",
+    "track": "K.Te Kanawa, A. Murray, M. McLaughlin, et. al., Wiener Philharmoniker, J. Levine - Cosi fan tutte (2 Acts) [W.A. Mozart]",
+    "length": 11608,
+    "track_id": 1260444,
+    "release": "Così fan tutte [1]",
+    "art_url": "//cdn-images.audioaddict.com/7/1/b/4/2/8/71b4287b2921bef8fa08838217c45939.png",
+    "description_cover": "a close up of a person standing in front of a curtain with a shoe on the floor next to them and a person standing in front of a curtain",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "standing",
+      "curtain",
+      "shoe",
+      "floor",
+      "next",
+      "them",
+      "person",
+      "standing",
+      "curtain"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Carol Neblett, Placido Domingo, Sherrill Milnes, Orchestra & Chorus of the Royal Opera House, Covent Garden, Zubin Mehta",
+    "title": "La Fanciulla del West, 3 Acts [G. Puccini]",
+    "track": "Carol Neblett, Placido Domingo, Sherrill Milnes, Orchestra & Chorus of the Royal Opera House, Covent Garden, Zubin Mehta - La Fanciulla del West, 3 Acts [G. Puccini]",
+    "length": 7789,
+    "track_id": 1988628,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/a/9/5/0/4/6/a95046097989793604baf64e9015e7af.jpg",
+    "description_cover": "a close up of a purple flower with a gray background and a white text that reads la fanculla del west, caroline nebertt, piado domino, sherri milini, zubini, zubini, and",
+    "description_tags": [
+      "close",
+      "up",
+      "purple",
+      "flower",
+      "gray",
+      "background",
+      "white",
+      "text",
+      "reads",
+      "la",
+      "fanculla",
+      "del",
+      "west,",
+      "caroline",
+      "nebertt,",
+      "piado",
+      "domino,",
+      "sherri",
+      "milini,",
+      "zubini,",
+      "zubini,"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Yelena Obraztsova, Plácido Domingo, Renato Bruson, et. al., Orchestre de Paris, Daniel Barenboim",
+    "title": "Samson et Dalila, Op. 47 (3 Acts) [C. Saint-Saëns]",
+    "track": "Yelena Obraztsova, Plácido Domingo, Renato Bruson, et. al., Orchestre de Paris, Daniel Barenboim - Samson et Dalila, Op. 47 (3 Acts) [C. Saint-Saëns]",
+    "length": 7522,
+    "track_id": 3076828,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/1/4/1/a/e/1/141ae1cab5ce38487c397ca80a37136b.jpg",
+    "description_cover": "there are two women laying on a bed together in the same position, one of them is touching the other's head and the other is touching her",
+    "description_tags": [
+      "two",
+      "women",
+      "laying",
+      "bed",
+      "together",
+      "same",
+      "position,",
+      "one",
+      "them",
+      "touching",
+      "other's",
+      "head",
+      "other",
+      "touching",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7858144640922546,
+        "box": [
+          10,
+          532,
+          377,
+          428
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Anna Netrebko, Bo Skovhus, Dorothea Röschmann, C. Schäfer et. al., Wiener Philharmoniker, Nikolaus Harnoncourt",
+    "title": "Le nozze di Figaro, K.492 (4 Acts) [W.A. Mozart]",
+    "track": "Anna Netrebko, Bo Skovhus, Dorothea Röschmann, C. Schäfer et. al., Wiener Philharmoniker, Nikolaus Harnoncourt - Le nozze di Figaro, K.492 (4 Acts) [W.A. Mozart]",
+    "length": 11394,
+    "track_id": 2951187,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/c/d/2/a/a/fcd2aa1a22b469b2208156b5c81131d3.jpg",
+    "description_cover": "a close up of a person sitting on a stair near a person in a suit and tie on a stair with a man in a suit and woman in a white dress",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "sitting",
+      "stair",
+      "near",
+      "person",
+      "suit",
+      "tie",
+      "stair",
+      "man",
+      "suit",
+      "woman",
+      "white",
+      "dress"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7167077660560608,
+        "box": [
+          220,
+          46,
+          31,
+          33
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.4653160572052002,
+        "box": [
+          314,
+          67,
+          34,
+          31
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "N. Dessay, R. Alagna, L. Tezier, Opera de Lyon, E. Pido",
+    "title": "Lucie de Lammermoor (3 Acts) [G. Donizetti]",
+    "track": "N. Dessay, R. Alagna, L. Tezier, Opera de Lyon, E. Pido - Lucie de Lammermoor (3 Acts) [G. Donizetti]",
+    "length": 7616,
+    "track_id": 1260439,
+    "release": "Donizetti - Lucie de Lammermoor CD1",
+    "art_url": "//cdn-images.audioaddict.com/7/4/e/2/6/9/74e2697eb093f1a65f852e9fb920708f.jpg",
+    "description_cover": "arafed image of a concert program with a woman singing in a white dress and a man in a black suit and a man in a white shirt",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "program",
+      "woman",
+      "singing",
+      "white",
+      "dress",
+      "man",
+      "black",
+      "suit",
+      "man",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.502190113067627,
+        "box": [
+          522,
+          227,
+          78,
+          79
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Birgit Nilsson, Fritz Uhl, Regina Resnik, Tom Krause, Arnold van Mili, Wiener Philharmoniker, Georg Solti",
+    "title": "Tristan und Isolde, WWV 90 (3 Acts) [R. Wagner]",
+    "track": "Birgit Nilsson, Fritz Uhl, Regina Resnik, Tom Krause, Arnold van Mili, Wiener Philharmoniker, Georg Solti - Tristan und Isolde, WWV 90 (3 Acts) [R. Wagner]",
+    "length": 14360,
+    "track_id": 2886682,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/0/b/1/4/9/5/0b1495b9867aadb07f46ecc2a85bc345.jpg",
+    "description_cover": "a close up of a person holding a cup in their hands with a red background and a picture of a woman holding a cup in her hands with a red background",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "holding",
+      "cup",
+      "their",
+      "hands",
+      "red",
+      "background",
+      "picture",
+      "woman",
+      "holding",
+      "cup",
+      "her",
+      "hands",
+      "red",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7466034889221191,
+        "box": [
+          91,
+          207,
+          53,
+          51
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "C. Bergonzi, J. Carlyle, G. Taddei, U. Benelli, R. Panerai, G. Morresi, Orchestra del Teatro alla Scala, H. von Karajan",
+    "title": "Pagliacci, 2 Acts [R. Leoncavallo]",
+    "track": "C. Bergonzi, J. Carlyle, G. Taddei, U. Benelli, R. Panerai, G. Morresi, Orchestra del Teatro alla Scala, H. von Karajan - Pagliacci, 2 Acts [R. Leoncavallo]",
+    "length": 4676,
+    "track_id": 2917694,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/7/7/6/5/b/f/7765bf323705ae35b782b86b449089ae.jpg",
+    "description_cover": "a close up of a red book with a gold logo on it and a blue seal on the cover of it and a blue seal on the back",
+    "description_tags": [
+      "close",
+      "up",
+      "red",
+      "book",
+      "gold",
+      "logo",
+      "blue",
+      "seal",
+      "cover",
+      "blue",
+      "seal",
+      "back"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Plácido Domingo, Mirella Freni, Etc., Orchestra & Chorus Of La Scala Milan, Riccardo Muti",
+    "title": "La Forza Del Destino (3 Acts) [G. Verdi]",
+    "track": "Plácido Domingo, Mirella Freni, Etc., Orchestra & Chorus Of La Scala Milan, Riccardo Muti - La Forza Del Destino (3 Acts) [G. Verdi]",
+    "length": 9833,
+    "track_id": 3074194,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/8/7/4/1/4/c/87414c6733b77c3adfcb0175f337af04.jpg",
+    "description_cover": "a close up of two men sitting in a theater with red seats and a red chair in front of them and a black background with a red and white text",
+    "description_tags": [
+      "close",
+      "up",
+      "two",
+      "men",
+      "sitting",
+      "theater",
+      "red",
+      "seats",
+      "red",
+      "chair",
+      "them",
+      "black",
+      "background",
+      "red",
+      "white",
+      "text"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.4395601153373718,
+        "box": [
+          395,
+          557,
+          72,
+          82
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.3260610103607178,
+        "box": [
+          650,
+          602,
+          79,
+          90
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 381,
+    "artist": "Maria Callas, Giuseppe Di Stefano, Giulio Fioravanti, Orchestra e Coro del Teatro alla Scala di Milano, Tullio Serafin",
+    "title": "Manon Lescaut, 4 Acts [G. Puccini]",
+    "track": "Maria Callas, Giuseppe Di Stefano, Giulio Fioravanti, Orchestra e Coro del Teatro alla Scala di Milano, Tullio Serafin - Manon Lescaut, 4 Acts [G. Puccini]",
+    "length": 7220,
+    "track_id": 3058948,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/f/f/2/9/0/5/ff29054064538c623c56159450dd6027.jpg",
+    "description_cover": "a close up of a woman with a necklace on her neck and a necklace on her neck, with a hand on her chin, looking at the camera",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "necklace",
+      "her",
+      "neck",
+      "necklace",
+      "her",
+      "neck,",
+      "hand",
+      "her",
+      "chin,",
+      "looking",
+      "camera"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8304070234298706,
+        "box": [
+          280,
+          290,
+          329,
+          369
+        ]
+      }
+    ],
+    "nsfw": false
+  }
+]

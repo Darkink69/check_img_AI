@@ -1,0 +1,5556 @@
+[
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.4 In C, D.417, \"Tragic\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.4 In C, D.417, \"Tragic\" [F. Schubert]",
+    "length": 1813,
+    "track_id": 2938509,
+    "release": "Schubert: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in C minor Op.90 No.1 - Allegro molto moderato [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in C minor Op.90 No.1 - Allegro molto moderato [F. Schubert]",
+    "length": 566,
+    "track_id": 1046754,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 [F. Schubert]",
+    "length": 3526,
+    "track_id": 1024035,
+    "release": "SCHUBERT, Franz - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "title": "Die schöne Müllerin, Op. 25, D. 795: XII. Pause (adapted for Flute and Piano) [F. Schubert]",
+    "track": "Nadia Labrie - Die schöne Müllerin, Op. 25, D. 795: XII. Pause (adapted for Flute and Piano) [F. Schubert]",
+    "length": 279,
+    "track_id": 3015600,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "description_cover": "a close up of a woman with long blonde hair smiling at the camera with a white background and a black shirt on her chest and a black top",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "long",
+      "blonde",
+      "hair",
+      "smiling",
+      "camera",
+      "white",
+      "background",
+      "black",
+      "shirt",
+      "her",
+      "chest",
+      "black",
+      "top"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8297703266143799,
+        "box": [
+          470,
+          287,
+          356,
+          348
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in C major D279 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in C major D279 [F. Schubert]",
+    "length": 1339,
+    "track_id": 1046769,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "title": "Piano Trio No.2 in E flat major D929 [F. Schubert]",
+    "track": "Israel Piano Trio - Piano Trio No.2 in E flat major D929 [F. Schubert]",
+    "length": 2871,
+    "track_id": 1046782,
+    "release": "Masterworks Disc 15",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.6 In C, D.589, \"Little\" [F. Schubert]",
+    "length": 1875,
+    "track_id": 2938511,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.4. Standchen [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.4. Standchen [F. Schubert]",
+    "length": 324,
+    "track_id": 1049450,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "title": "Piano Trio No.1 in B flat, Op.99, D898 [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio No.1 in B flat, Op.99, D898 [F. Schubert]",
+    "length": 2140,
+    "track_id": 1054565,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.7, in D major, D.94 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.7, in D major, D.94 [F. Schubert]",
+    "length": 1121,
+    "track_id": 1040252,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "title": "String Quartet in A minor, D804, 'Rosamunde' [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet in A minor, D804, 'Rosamunde' [F. Schubert]",
+    "length": 2156,
+    "track_id": 1054571,
+    "release": "Masterworks Disc 10",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Sharon Quartet",
+    "title": "String Quartet in G minor D173 [F. Schubert]",
+    "track": "Sharon Quartet - String Quartet in G minor D173 [F. Schubert]",
+    "length": 1406,
+    "track_id": 1054574,
+    "release": "Masterworks Disc 13",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in F major, D105 [F. Schubert]",
+    "track": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in F major, D105 [F. Schubert]",
+    "length": 2866,
+    "track_id": 1048914,
+    "release": "Schubert - Sacred Works CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskau, F. Araiza, B. Fassbaender, H. Donath, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in E flat major, D950 [F. Schubert]",
+    "track": "D. Fischer-Dieskau, F. Araiza, B. Fassbaender, H. Donath, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in E flat major, D950 [F. Schubert]",
+    "length": 3418,
+    "track_id": 1048913,
+    "release": "Schubert - Sacred Works CD7",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Grumiaux Trio",
+    "title": "String Trio in B flat, D471 - Allegro - 1. Allegro [F. Schubert]",
+    "track": "Grumiaux Trio - String Trio in B flat, D471 - Allegro - 1. Allegro [F. Schubert]",
+    "length": 501,
+    "track_id": 1054543,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Zwei Scherzi D593 - Scherzo in D flat major [F. Schubert]",
+    "track": "Alwin Baer - Zwei Scherzi D593 - Scherzo in D flat major [F. Schubert]",
+    "length": 325,
+    "track_id": 1046789,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.1 in E Major, D157 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.1 in E Major, D157 [F. Schubert]",
+    "length": 1183,
+    "track_id": 1054552,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Bart Van Oort",
+    "title": "Piano Sonata in A minor D845 [F. Schubert]",
+    "track": "Bart Van Oort - Piano Sonata in A minor D845 [F. Schubert]",
+    "length": 2305,
+    "track_id": 1046766,
+    "release": "Masterworks Disc 23",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Piano Sonata in A major, D959 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in A major, D959 [F. Schubert]",
+    "length": 2536,
+    "track_id": 1049602,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "David Kuyken",
+    "title": "Piano Sonata in G major D894 [F. Schubert]",
+    "track": "David Kuyken - Piano Sonata in G major D894 [F. Schubert]",
+    "length": 2383,
+    "track_id": 1046780,
+    "release": "Masterworks Disc 21",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Fantasia in F minor for Piano Duet, D.940, Op.103 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Fantasia in F minor for Piano Duet, D.940, Op.103 [F. Schubert]",
+    "length": 1144,
+    "track_id": 3070798,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in G minor, D.408, Op.137, No.3 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in G minor, D.408, Op.137, No.3 [F. Schubert]",
+    "length": 967,
+    "track_id": 3070801,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Des Fischers Liebesgluck, D933 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Des Fischers Liebesgluck, D933 [F. Schubert]",
+    "length": 444,
+    "track_id": 1049077,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "description_cover": "a close up of a man wearing a hat and coat with a beard and a black coat on a cover of a book with a picture of a man in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "man",
+      "wearing",
+      "hat",
+      "coat",
+      "beard",
+      "black",
+      "coat",
+      "cover",
+      "book",
+      "picture",
+      "man",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5093485116958618,
+        "box": [
+          197,
+          191,
+          97,
+          105
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "title": "Piano Trio in one movement in B flat, D28 'Sonata' - Allegro [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio in one movement in B flat, D28 'Sonata' - Allegro [F. Schubert]",
+    "length": 510,
+    "track_id": 1054564,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "title": "Piano Trio No.2 in E flat, Op.100, D929 [F. Schubert]",
+    "track": "Beaux Arts Trio - Piano Trio No.2 in E flat, Op.100, D929 [F. Schubert]",
+    "length": 2481,
+    "track_id": 1054566,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in A minor, D.385, Op.137, No.2 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in A minor, D.385, Op.137, No.2 [F. Schubert]",
+    "length": 1270,
+    "track_id": 3070799,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.1 in C minor [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.1 in C minor [F. Schubert]",
+    "length": 592,
+    "track_id": 1049601,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "H. Donath, B. Fassbaender, D. Fischer-Dieskau, F. Araiza, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Mass in A flat major (Missa Solemnis), D678 [F. Schubert]",
+    "track": "H. Donath, B. Fassbaender, D. Fischer-Dieskau, F. Araiza, Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Mass in A flat major (Missa Solemnis), D678 [F. Schubert]",
+    "length": 2892,
+    "track_id": 1048910,
+    "release": "Schubert - Sacred Works CD5",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "title": "Piano Sonata in B major, D575 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in B major, D575 [F. Schubert]",
+    "length": 1355,
+    "track_id": 1261594,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "description_cover": "a close up of a woman with a black jacket and a white background with a pink border around her face and a black and white photo of her",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "black",
+      "jacket",
+      "white",
+      "background",
+      "pink",
+      "border",
+      "around",
+      "her",
+      "face",
+      "black",
+      "white",
+      "photo",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.871293306350708,
+        "box": [
+          0,
+          98,
+          293,
+          338
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.7 In E Flat, D. 568 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.7 In E Flat, D. 568 [F. Schubert]",
+    "length": 1733,
+    "track_id": 1054562,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in B flat major Op.142 No.3 - Andante mit Varationen (Rosamunde) [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in B flat major Op.142 No.3 - Andante mit Varationen (Rosamunde) [F. Schubert]",
+    "length": 696,
+    "track_id": 1046753,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in F minor Op.142 No.4 - Allegro vivace [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in F minor Op.142 No.4 - Allegro vivace [F. Schubert]",
+    "length": 401,
+    "track_id": 1046757,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.15, in G, D.887 (Op. Post. 161) [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.15, in G, D.887 (Op. Post. 161) [F. Schubert]",
+    "length": 2750,
+    "track_id": 1040245,
+    "release": "Schubert - String Quartets CD6",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 06. Chorus of Spirits [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 06. Chorus of Spirits [F. Schubert]",
+    "length": 192,
+    "track_id": 921033,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphony No.10 in D, D.936A (Realised by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphony No.10 in D, D.936A (Realised by Brian Newbould) [F. Schubert]",
+    "length": 1652,
+    "track_id": 2942991,
+    "release": "The Ten Symphonies CD5",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "description_cover": "a close up of a waterfall with a person standing on it's side near a tree and rocks with water flowing down it's sides and trees",
+    "description_tags": [
+      "close",
+      "up",
+      "waterfall",
+      "person",
+      "standing",
+      "it's",
+      "side",
+      "near",
+      "tree",
+      "rocks",
+      "water",
+      "flowing",
+      "down",
+      "it's",
+      "sides",
+      "trees"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "title": "Piano Sonata in D major D850 'Gasteiner' [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in D major D850 'Gasteiner' [F. Schubert]",
+    "length": 2510,
+    "track_id": 1046773,
+    "release": "Masterworks Disc 20",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "title": "6 Moments musicaux, Op.94 D780 [F. Schubert]",
+    "track": "Alfred Brendel - 6 Moments musicaux, Op.94 D780 [F. Schubert]",
+    "length": 1683,
+    "track_id": 1054546,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "description_cover": "a close up of a cd cover with a piano and a window in the background with a chair and a table in front of it and a cd disc",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "piano",
+      "window",
+      "background",
+      "chair",
+      "table",
+      "cd",
+      "disc"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "title": "Die Verschworenen, D787 'Der hausliche Krieg' - Ich schleiche bang und still 'Romanze' [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Die Verschworenen, D787 'Der hausliche Krieg' - Ich schleiche bang und still 'Romanze' [F. Schubert]",
+    "length": 188,
+    "track_id": 1049128,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "description_cover": "a close up of a woman in a yellow dress standing by a curtain with a black background and a gold curtain behind her, with a black background",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "yellow",
+      "dress",
+      "standing",
+      "curtain",
+      "black",
+      "background",
+      "gold",
+      "curtain",
+      "behind",
+      "her,",
+      "black",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.830194354057312,
+        "box": [
+          124,
+          231,
+          109,
+          101
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Scherzo in B flat major D593 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Scherzo in B flat major D593 [F. Schubert]",
+    "length": 238,
+    "track_id": 1046784,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "title": "Notturno D897 - Adagio [F. Schubert]",
+    "track": "Israel Piano Trio - Notturno D897 - Adagio [F. Schubert]",
+    "length": 583,
+    "track_id": 1046760,
+    "release": "Masterworks Disc 15",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Magnificat for soloists in C major, D486 [F. Schubert]",
+    "track": "D. Fischer-Dieskauet. al., Bavarian Radio Symphony Orchestra,  Bavarian Radio Chorus, W. Sawallisch - Magnificat for soloists in C major, D486 [F. Schubert]",
+    "length": 541,
+    "track_id": 1048909,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in E major D157 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in E major D157 [F. Schubert]",
+    "length": 902,
+    "track_id": 1046775,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in A flat major Op.142 No.2 - Allegretto [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in A flat major Op.142 No.2 - Allegretto [F. Schubert]",
+    "length": 474,
+    "track_id": 1046751,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "10. 12 German Dances, D790",
+    "title": "12 German Dances, D790 [F. Schubert]",
+    "track": "10. 12 German Dances, D790 - 12 German Dances, D790 [F. Schubert]",
+    "length": 636,
+    "track_id": 1049443,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "description_cover": "a close up of a cd cover with a piano and a window in the background with a chair and a table in front of it and a cd disc",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "piano",
+      "window",
+      "background",
+      "chair",
+      "table",
+      "cd",
+      "disc"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Octet",
+    "title": "Octet in F major, D803 [F. Schubert]",
+    "track": "Berlin Philharmonic Octet - Octet in F major, D803 [F. Schubert]",
+    "length": 3763,
+    "track_id": 1054542,
+    "release": "Masterworks Disc 16",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Lynn Harrell, LaSalle Quartet",
+    "title": "String Quintet In C, D.956, (Op. post. 163) [F. Schubert]",
+    "track": "Lynn Harrell, LaSalle Quartet - String Quintet In C, D.956, (Op. post. 163) [F. Schubert]",
+    "length": 3064,
+    "track_id": 3070804,
+    "release": "Schubert-Quintet (With Lynn Harrell) & Schumann-Piano Quintet (With James Levine) _ LaSalle [Pentone/ DG SACD 5186 227]",
+    "art_url": "//cdn-images.audioaddict.com/9/c/c/a/7/8/9cca782072df88c5b5c28c8dc4fc1ce7.jpg",
+    "description_cover": "a picture of a poster with a bunch of pink flowers on it and a gray background with the words schu err & schu mannn",
+    "description_tags": [
+      "picture",
+      "poster",
+      "bunch",
+      "pink",
+      "flowers",
+      "gray",
+      "background",
+      "words",
+      "schu",
+      "err",
+      "schu",
+      "mannn"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "title": "Piano Sonata in E minor D566 [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in E minor D566 [F. Schubert]",
+    "length": 1548,
+    "track_id": 1046777,
+    "release": "Masterworks Disc 18",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "R. Serkin, J. Laredo, P. Naegele, L. Parnas, J. Levine",
+    "title": "Quintet for Piano & Strings in A Major [F. Schubert]",
+    "track": "R. Serkin, J. Laredo, P. Naegele, L. Parnas, J. Levine - Quintet for Piano & Strings in A Major [F. Schubert]",
+    "length": 2375,
+    "track_id": 1040237,
+    "release": "Treasures of Chamber Music - Schubert & Mozart - [Vol.2] (Disc 5)",
+    "art_url": "//cdn-images.audioaddict.com/d/0/7/b/4/a/d07b4a35a5eaebf6ded39541ded3d0ed.jpg",
+    "description_cover": "a close up of a book with a picture of a man and a woman on it with a pen and ink drawing on it and a title in the middle",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "picture",
+      "man",
+      "woman",
+      "pen",
+      "ink",
+      "drawing",
+      "title",
+      "middle"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.3132818937301636,
+        "box": [
+          237,
+          427,
+          32,
+          33
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.28682857751846313,
+        "box": [
+          437,
+          427,
+          18,
+          18
+        ]
+      },
+      {
+        "class": "FACE_MALE",
+        "score": 0.2620965838432312,
+        "box": [
+          35,
+          429,
+          23,
+          23
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Offertory 'Tres sunt, qui testimonium dant in coelo' in A minor, D181 [F. Schubert]",
+    "track": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch - Offertory 'Tres sunt, qui testimonium dant in coelo' in A minor, D181 [F. Schubert]",
+    "length": 223,
+    "track_id": 1048920,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "13 Variations On A Theme By Anselm Httenbrenner, D.576 [F. Schubert]",
+    "track": "Wilhelm Kempff - 13 Variations On A Theme By Anselm Httenbrenner, D.576 [F. Schubert]",
+    "length": 877,
+    "track_id": 1054550,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Winterreise, Op.89, D911 (excerpts) - No.1. Gute Nacht [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Winterreise, Op.89, D911 (excerpts) - No.1. Gute Nacht [F. Schubert]",
+    "length": 271,
+    "track_id": 1049447,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.8, in B flat major, D.112 (Op. Post.168) [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.8, in B flat major, D.112 (Op. Post.168) [F. Schubert]",
+    "length": 1610,
+    "track_id": 1040253,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.6, in D major, D.74 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.6, in D major, D.74 [F. Schubert]",
+    "length": 1368,
+    "track_id": 1040251,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "title": "Sonatensatz D28 [F. Schubert]",
+    "track": "Israel Piano Trio - Sonatensatz D28 [F. Schubert]",
+    "length": 687,
+    "track_id": 1046786,
+    "release": "Masterworks Disc 14",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch",
+    "title": "Kyrie in F major, D66 [F. Schubert]",
+    "track": "E. Schloter, Bavarian Radio Symphony Orchestra, Bavarian Radio Chorus, W. Sawallisch - Kyrie in F major, D66 [F. Schubert]",
+    "length": 355,
+    "track_id": 1048906,
+    "release": "Schubert - Sacred Works CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/4/9/a/4/b/d49a4bacd07f1a845ae8633e1d7c42a9.png",
+    "description_cover": "schubert sacred works, vol 1 cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd - audio cd",
+    "description_tags": [
+      "schubert",
+      "sacred",
+      "works,",
+      "vol",
+      "1",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd",
+      "audio",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Grumiaux Trio",
+    "title": "String Trio in B flat, D581 [F. Schubert]",
+    "track": "Grumiaux Trio - String Trio in B flat, D581 [F. Schubert]",
+    "length": 1231,
+    "track_id": 1054544,
+    "release": "Schubert - Complete Trios CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "title": "Drei Klavierstucke, D946 [F. Schubert]",
+    "track": "Klára Würtz - Drei Klavierstucke, D946 [F. Schubert]",
+    "length": 1787,
+    "track_id": 1261649,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "description_cover": "a close up of a woman with a black jacket and a white background with a pink border around her face and a black and white photo of her",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "black",
+      "jacket",
+      "white",
+      "background",
+      "pink",
+      "border",
+      "around",
+      "her",
+      "face",
+      "black",
+      "white",
+      "photo",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.871293306350708,
+        "box": [
+          0,
+          98,
+          293,
+          338
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Winterreise, Op.89, D911 (excerpts) - No.5. Der Lindenbaum [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Winterreise, Op.89, D911 (excerpts) - No.5. Der Lindenbaum [F. Schubert]",
+    "length": 265,
+    "track_id": 1049448,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 04. Entr'acte Act II [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 04. Entr'acte Act II [F. Schubert]",
+    "length": 265,
+    "track_id": 921031,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.5 in A Flat Major, D557 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.5 in A Flat Major, D557 [F. Schubert]",
+    "length": 724,
+    "track_id": 1054560,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.4 in A flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.4 in A flat major [F. Schubert]",
+    "length": 501,
+    "track_id": 1049432,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Mstislav Rostropovitj, Benjamin Britten",
+    "title": "Sonata for arpeggione & piano in A minor 'Arpeggione Sonata', D. 821 [F. Schubert]",
+    "track": "Mstislav Rostropovitj, Benjamin Britten - Sonata for arpeggione & piano in A minor 'Arpeggione Sonata', D. 821 [F. Schubert]",
+    "length": 1726,
+    "track_id": 1039303,
+    "release": "Decca Legends - Schubert-Arpeggione & Debussy-Cello sonata - Rostropovich & Britten",
+    "art_url": "//cdn-images.audioaddict.com/a/c/8/b/4/4/ac8b44384be60be1f0fafe520a15a3b0.jpg",
+    "description_cover": "arafed image of a picture of a cello player and a cello player in a black and white photo with a gold ribbon around it and a picture of a man playing the cello",
+    "description_tags": [
+      "arafed",
+      "image",
+      "picture",
+      "cello",
+      "player",
+      "cello",
+      "player",
+      "black",
+      "white",
+      "photo",
+      "gold",
+      "ribbon",
+      "around",
+      "picture",
+      "man",
+      "playing",
+      "cello"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Piano Sonata in C major, Op. Posth. 120, D958 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in C major, Op. Posth. 120, D958 [F. Schubert]",
+    "length": 2019,
+    "track_id": 1049604,
+    "release": "Schubert - The Late Piano Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.1 In D, D.82 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.1 In D, D.82 [F. Schubert]",
+    "length": 1769,
+    "track_id": 2938506,
+    "release": "Schubert: Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "title": "Quartettsatz in C minor D703 [F. Schubert]",
+    "track": "Brandis Quartet - Quartettsatz in C minor D703 [F. Schubert]",
+    "length": 524,
+    "track_id": 1049171,
+    "release": "Masterworks Disc 11",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata for Violin and Piano in A major 'Duo', D.574 (Op. posth. 162) [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata for Violin and Piano in A major 'Duo', D.574 (Op. posth. 162) [F. Schubert]",
+    "length": 1357,
+    "track_id": 3070802,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 09 - Chorus of Shepherds [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 09 - Chorus of Shepherds [F. Schubert]",
+    "length": 250,
+    "track_id": 921036,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "title": "Piano Sonata in A major, D664 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in A major, D664 [F. Schubert]",
+    "length": 1426,
+    "track_id": 1261610,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "description_cover": "a close up of a woman with a black jacket and a white background with a pink border around her face and a black and white photo of her",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "black",
+      "jacket",
+      "white",
+      "background",
+      "pink",
+      "border",
+      "around",
+      "her",
+      "face",
+      "black",
+      "white",
+      "photo",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.871293306350708,
+        "box": [
+          0,
+          98,
+          293,
+          338
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Piano Sonata in F sharp minor D570/571 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in F sharp minor D570/571 [F. Schubert]",
+    "length": 1037,
+    "track_id": 1046779,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.11 in F minor, D625 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.11 in F minor, D625 [F. Schubert]",
+    "length": 1351,
+    "track_id": 1054553,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.12. Am Meer [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.12. Am Meer [F. Schubert]",
+    "length": 232,
+    "track_id": 1049451,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.4 In A Minor, D.537 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.4 In A Minor, D.537 [F. Schubert]",
+    "length": 1102,
+    "track_id": 1054559,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.5, in B flat major, D.68 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.5, in B flat major, D.68 [F. Schubert]",
+    "length": 839,
+    "track_id": 1040250,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "title": "Lambertine, D301 [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Lambertine, D301 [F. Schubert]",
+    "length": 201,
+    "track_id": 1049132,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "description_cover": "a close up of a woman in a yellow dress standing by a curtain with a black background and a gold curtain behind her, with a black background",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "yellow",
+      "dress",
+      "standing",
+      "curtain",
+      "black",
+      "background",
+      "gold",
+      "curtain",
+      "behind",
+      "her,",
+      "black",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.830194354057312,
+        "box": [
+          124,
+          231,
+          109,
+          101
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in E flat major Op.90 No.2 - Allegro [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in E flat major Op.90 No.2 - Allegro [F. Schubert]",
+    "length": 257,
+    "track_id": 1046755,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.9, in G minor, D.173 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.9, in G minor, D.173 [F. Schubert]",
+    "length": 1403,
+    "track_id": 1040254,
+    "release": "Schubert - String Quartets CD3",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Fantasie in C minor D2e [F. Schubert]",
+    "track": "Tamara Rumiantsev - Fantasie in C minor D2e [F. Schubert]",
+    "length": 430,
+    "track_id": 1046750,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "title": "Piano Sonata in A minor, D537 [F. Schubert]",
+    "track": "Klára Würtz - Piano Sonata in A minor, D537 [F. Schubert]",
+    "length": 1423,
+    "track_id": 1261515,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "description_cover": "a close up of a woman with a black jacket and a white background with a pink border around her face and a black and white photo of her",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "black",
+      "jacket",
+      "white",
+      "background",
+      "pink",
+      "border",
+      "around",
+      "her",
+      "face",
+      "black",
+      "white",
+      "photo",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.871293306350708,
+        "box": [
+          0,
+          98,
+          293,
+          338
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphonic Fragment in D, D.615 (Orchestrated by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphonic Fragment in D, D.615 (Orchestrated by Brian Newbould) [F. Schubert]",
+    "length": 460,
+    "track_id": 2942994,
+    "release": "The Ten Symphonies CD6",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "description_cover": "a close up of a waterfall with a person standing on it's side near a tree and rocks with water flowing down it's sides and trees",
+    "description_tags": [
+      "close",
+      "up",
+      "waterfall",
+      "person",
+      "standing",
+      "it's",
+      "side",
+      "near",
+      "tree",
+      "rocks",
+      "water",
+      "flowing",
+      "down",
+      "it's",
+      "sides",
+      "trees"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Ungarische Melodie D817 [F. Schubert]",
+    "track": "Alwin Baer - Ungarische Melodie D817 [F. Schubert]",
+    "length": 258,
+    "track_id": 1046787,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.10, in E flat, D.87 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.10, in E flat, D.87 [F. Schubert]",
+    "length": 1506,
+    "track_id": 1040241,
+    "release": "Schubert - String Quartets CD4",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Allegretto in C minor, D.915 [F. Schubert]",
+    "track": "Wilhelm Kempff - Allegretto in C minor, D.915 [F. Schubert]",
+    "length": 295,
+    "track_id": 1049371,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 01. Overture (Die Zauberharfe D644) [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 01. Overture (Die Zauberharfe D644) [F. Schubert]",
+    "length": 636,
+    "track_id": 921028,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Five Piano Pieces 'Sonata in E major' D459 & D459a [F. Schubert]",
+    "track": "Wilhelm Kempff - Five Piano Pieces 'Sonata in E major' D459 & D459a [F. Schubert]",
+    "length": 1676,
+    "track_id": 1054568,
+    "release": "Piano (Disc 22) Schubert Sonata D 960, Five Piano Pieces",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Rondo for Violin and Piano in B minor “Rondo Brillant”, D.895, Op.70 -  Andante - Allegro [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Rondo for Violin and Piano in B minor “Rondo Brillant”, D.895, Op.70 -  Andante - Allegro [F. Schubert]",
+    "length": 872,
+    "track_id": 3070803,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Amati Chamber Ensemble",
+    "title": "Quintet in A major D667, 'The Trout' [F. Schubert]",
+    "track": "Amati Chamber Ensemble - Quintet in A major D667, 'The Trout' [F. Schubert]",
+    "length": 2420,
+    "track_id": 1040238,
+    "release": "Masterworks Disc 13",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.18 in G, D.894 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.18 in G, D.894 [F. Schubert]",
+    "length": 1853,
+    "track_id": 1054557,
+    "release": "Piano (Disc 24) Schubert Sonatas D 894 & 850",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "Quartet Movement in C minor, D.103 [F. Schubert]",
+    "track": "Melos Quartet - Quartet Movement in C minor, D.103 [F. Schubert]",
+    "length": 500,
+    "track_id": 1040235,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "title": "Ave Maria! - Ellen’s Gesang III, Op. 52, No. 6, D. 839 (arr. G. Gariboldi) [F. Schubert]",
+    "track": "Nadia Labrie - Ave Maria! - Ellen’s Gesang III, Op. 52, No. 6, D. 839 (arr. G. Gariboldi) [F. Schubert]",
+    "length": 350,
+    "track_id": 3015599,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "description_cover": "a close up of a woman with long blonde hair smiling at the camera with a white background and a black shirt on her chest and a black top",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "long",
+      "blonde",
+      "hair",
+      "smiling",
+      "camera",
+      "white",
+      "background",
+      "black",
+      "shirt",
+      "her",
+      "chest",
+      "black",
+      "top"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8297703266143799,
+        "box": [
+          470,
+          287,
+          356,
+          348
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Klára Würtz",
+    "title": "'Lebenssturme' - Allegro for piano 4 hands - in A minor D966 [F. Schubert]",
+    "track": "Klára Würtz - 'Lebenssturme' - Allegro for piano 4 hands - in A minor D966 [F. Schubert]",
+    "length": 699,
+    "track_id": 1000446,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/c/4/5/9/3/1/c4593193a31382d6829d25dcfc4799ee.jpg",
+    "description_cover": "a close up of a woman with a black jacket and a white background with a pink border around her face and a black and white photo of her",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "black",
+      "jacket",
+      "white",
+      "background",
+      "pink",
+      "border",
+      "around",
+      "her",
+      "face",
+      "black",
+      "white",
+      "photo",
+      "her"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.871293306350708,
+        "box": [
+          0,
+          98,
+          293,
+          338
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.9 In C, D944, 'The Great' [F. Schubert]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.9 In C, D944, 'The Great' [F. Schubert]",
+    "length": 3147,
+    "track_id": 1024047,
+    "release": "Karajan - The Complete EMI Recordings CD73",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "description_cover": "a close up of a cd cover of a man holding a cell phone in his hand and a microphone in his other hand, with a red band",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "holding",
+      "cell",
+      "phone",
+      "hand",
+      "microphone",
+      "other",
+      "hand,",
+      "red",
+      "band"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Piano Sonata in C major D613 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in C major D613 [F. Schubert]",
+    "length": 983,
+    "track_id": 1046770,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 07 - Entr'acte Act III Andantino [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 07 - Entr'acte Act III Andantino [F. Schubert]",
+    "length": 462,
+    "track_id": 921034,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Dresdner Philharmonie, Marek Janowski",
+    "title": "Symphony No.9 in C Major, D.944, 'The Great' [F. Schubert]",
+    "track": "Dresdner Philharmonie, Marek Janowski - Symphony No.9 in C Major, D.944, 'The Great' [F. Schubert]",
+    "length": 3319,
+    "track_id": 3070806,
+    "release": "Schubert Symphonies - Unfinished & Great",
+    "art_url": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg",
+    "description_cover": "a close up of a leaf on a lake with a forest in the background and a sky in the background with a quote that reads schubert symphonies of unfinished and great",
+    "description_tags": [
+      "close",
+      "up",
+      "leaf",
+      "lake",
+      "forest",
+      "background",
+      "sky",
+      "background",
+      "quote",
+      "reads",
+      "schubert",
+      "symphonies",
+      "unfinished",
+      "great"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802: I. Introduction [F. Schubert]",
+    "track": "Nadia Labrie - Introduction and Variations on Trockne Blumen in E Minor, D. 802: I. Introduction [F. Schubert]",
+    "length": 163,
+    "track_id": 3015601,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "description_cover": "a close up of a woman with long blonde hair smiling at the camera with a white background and a black shirt on her chest and a black top",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "long",
+      "blonde",
+      "hair",
+      "smiling",
+      "camera",
+      "white",
+      "background",
+      "black",
+      "shirt",
+      "her",
+      "chest",
+      "black",
+      "top"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8297703266143799,
+        "box": [
+          470,
+          287,
+          356,
+          348
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Philip Langridge, Graham Johnson",
+    "title": "Des Fraeuleins Liebeslauschen, D698 [F. Schubert]",
+    "track": "Philip Langridge, Graham Johnson - Des Fraeuleins Liebeslauschen, D698 [F. Schubert]",
+    "length": 304,
+    "track_id": 1050227,
+    "release": "Hyperion Schubert Edition Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg",
+    "description_cover": "a close up of a person holding a cigarette in their hand and a cigarette in his hand with a cigarette in his mouth and a cigarette in his hand",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "holding",
+      "cigarette",
+      "their",
+      "hand",
+      "cigarette",
+      "hand",
+      "cigarette",
+      "mouth",
+      "cigarette",
+      "hand"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.5674245357513428,
+        "box": [
+          300,
+          280,
+          152,
+          179
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Vor meiner Wiege, D927, Op.106, No.3 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Vor meiner Wiege, D927, Op.106, No.3 [F. Schubert]",
+    "length": 339,
+    "track_id": 1050238,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "description_cover": "a close up of a man wearing a hat and coat with a beard and a black coat on a cover of a book with a picture of a man in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "man",
+      "wearing",
+      "hat",
+      "coat",
+      "beard",
+      "black",
+      "coat",
+      "cover",
+      "book",
+      "picture",
+      "man",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5093485116958618,
+        "box": [
+          197,
+          191,
+          97,
+          105
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Piece In A D604: Andante [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Piece In A D604: Andante [F. Schubert]",
+    "length": 288,
+    "track_id": 1049370,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 11 - Ballet [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 11 - Ballet [F. Schubert]",
+    "length": 369,
+    "track_id": 921038,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 03. Ballet - Andante un poco asai [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 03. Ballet - Andante un poco asai [F. Schubert]",
+    "length": 451,
+    "track_id": 921030,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.2, in C major, D.32 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.2, in C major, D.32 [F. Schubert]",
+    "length": 1049,
+    "track_id": 1040246,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Dresdner Philharmonie, Marek Janowski",
+    "title": "Symphony in B Minor, D.759, 'Unfinished' [F. Schubert]",
+    "track": "Dresdner Philharmonie, Marek Janowski - Symphony in B Minor, D.759, 'Unfinished' [F. Schubert]",
+    "length": 1421,
+    "track_id": 3070805,
+    "release": "Schubert Symphonies - Unfinished & Great",
+    "art_url": "//cdn-images.audioaddict.com/8/9/1/e/0/e/891e0e677013d7fe506f50dd94362c2d.jpg",
+    "description_cover": "a close up of a leaf on a lake with a forest in the background and a sky in the background with a quote that reads schubert symphonies of unfinished and great",
+    "description_tags": [
+      "close",
+      "up",
+      "leaf",
+      "lake",
+      "forest",
+      "background",
+      "sky",
+      "background",
+      "quote",
+      "reads",
+      "schubert",
+      "symphonies",
+      "unfinished",
+      "great"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.4, in C major, D.46 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.4, in C major, D.46 [F. Schubert]",
+    "length": 1309,
+    "track_id": 1040249,
+    "release": "Schubert - String Quartets CD2",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Sonata (Sonatina) for Violin and Piano in D major, D. 384, Op.137, No.1 [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Sonata (Sonatina) for Violin and Piano in D major, D. 384, Op.137, No.1 [F. Schubert]",
+    "length": 762,
+    "track_id": 3070800,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 1",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "title": "String Quartet inG major, D887 [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet inG major, D887 [F. Schubert]",
+    "length": 2643,
+    "track_id": 1054573,
+    "release": "Masterworks Disc 11",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Folke Nauta",
+    "title": "Piano Sonata in C minor D958 [F. Schubert]",
+    "track": "Folke Nauta - Piano Sonata in C minor D958 [F. Schubert]",
+    "length": 1868,
+    "track_id": 1046772,
+    "release": "Masterworks Disc 19",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Anthony Rolfe Johnson, Graham Johnson",
+    "title": "Der Vater mit dem Kind, D906 [F. Schubert]",
+    "track": "Anthony Rolfe Johnson, Graham Johnson - Der Vater mit dem Kind, D906 [F. Schubert]",
+    "length": 280,
+    "track_id": 1049076,
+    "release": "Hyperion Schubert Edition Volume 06",
+    "art_url": "//cdn-images.audioaddict.com/4/4/c/2/0/0/44c2002abff4dff9597b17cad8541f40.png",
+    "description_cover": "a close up of a man wearing a hat and coat with a beard and a black coat on a cover of a book with a picture of a man in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "man",
+      "wearing",
+      "hat",
+      "coat",
+      "beard",
+      "black",
+      "coat",
+      "cover",
+      "book",
+      "picture",
+      "man",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5093485116958618,
+        "box": [
+          197,
+          191,
+          97,
+          105
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphonic Fragment in D, D.708A (Completed and Orchestrated by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphonic Fragment in D, D.708A (Completed and Orchestrated by Brian Newbould) [F. Schubert]",
+    "length": 1066,
+    "track_id": 2942995,
+    "release": "The Ten Symphonies CD4",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "description_cover": "a close up of a waterfall with a person standing on it's side near a tree and rocks with water flowing down it's sides and trees",
+    "description_tags": [
+      "close",
+      "up",
+      "waterfall",
+      "person",
+      "standing",
+      "it's",
+      "side",
+      "near",
+      "tree",
+      "rocks",
+      "water",
+      "flowing",
+      "down",
+      "it's",
+      "sides",
+      "trees"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Julia Fischer, Martin Helmchen",
+    "title": "Fantasia for Violin and Piano in C major, D.934 (Op. posth. 159) [F. Schubert]",
+    "track": "Julia Fischer, Martin Helmchen - Fantasia for Violin and Piano in C major, D.934 (Op. posth. 159) [F. Schubert]",
+    "length": 1520,
+    "track_id": 3070797,
+    "release": "Franz Schubert - Complete Works for Violin and Piano Volume 2",
+    "art_url": "//cdn-images.audioaddict.com/6/b/b/b/6/8/6bbb68e486451aa12f0fb271e2fd5479.png",
+    "description_cover": "arafed image of a man and woman holding a violin and violin case in front of a wooden door with a stringing pattern on it and a wooden door",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "woman",
+      "holding",
+      "violin",
+      "violin",
+      "case",
+      "wooden",
+      "door",
+      "stringing",
+      "pattern",
+      "wooden",
+      "door"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7723125219345093,
+        "box": [
+          214,
+          194,
+          60,
+          53
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5624583959579468,
+        "box": [
+          315,
+          142,
+          64,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Piano Sonata in B flat major, D960 [F. Schubert]",
+    "track": "Claudio Arrau - Piano Sonata in B flat major, D960 [F. Schubert]",
+    "length": 2659,
+    "track_id": 1049603,
+    "release": "Schubert - The Late Piano Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Schwanengesang, D957 (excerpts) - No.14. Die Taubenpost [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Schwanengesang, D957 (excerpts) - No.14. Die Taubenpost [F. Schubert]",
+    "length": 223,
+    "track_id": 1049452,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Bart Van Oort",
+    "title": "Piano Sonata in E major D459 [F. Schubert]",
+    "track": "Bart Van Oort - Piano Sonata in E major D459 [F. Schubert]",
+    "length": 1677,
+    "track_id": 1046776,
+    "release": "Masterworks Disc 23",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in F minor Op.142 No.1 - Allegro moderato [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in F minor Op.142 No.1 - Allegro moderato [F. Schubert]",
+    "length": 768,
+    "track_id": 1046756,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Allegretto in C minor D915 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Allegretto in C minor D915 [F. Schubert]",
+    "length": 259,
+    "track_id": 1046747,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.2 in E flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.2 in E flat major [F. Schubert]",
+    "length": 341,
+    "track_id": 1049430,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.6 in E minor, D566 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.6 in E minor, D566 [F. Schubert]",
+    "length": 969,
+    "track_id": 1054561,
+    "release": "Piano (Disc 27) Schubert Sonatas D 568, 557 & 566",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Zwei Scherzi D593 - Scherzo in B flat major [F. Schubert]",
+    "track": "Alwin Baer - Zwei Scherzi D593 - Scherzo in B flat major [F. Schubert]",
+    "length": 247,
+    "track_id": 1046788,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Israel Piano Trio",
+    "title": "Piano Trio No.1 in B flat major D898 [F. Schubert]",
+    "track": "Israel Piano Trio - Piano Trio No.1 in B flat major D898 [F. Schubert]",
+    "length": 2558,
+    "track_id": 1046781,
+    "release": "Masterworks Disc 14",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Beaux Arts Trio",
+    "title": "Adagio in E flat, Op. Posth. 148 D897 'Notturno' [F. Schubert]",
+    "track": "Beaux Arts Trio - Adagio in E flat, Op. Posth. 148 D897 'Notturno' [F. Schubert]",
+    "length": 781,
+    "track_id": 1049401,
+    "release": "Schubert - Complete Trios CD2",
+    "art_url": "//cdn-images.audioaddict.com/3/6/4/a/8/1/364a8144334bbcf2df5662050f14b4fd.jpg",
+    "description_cover": "a close up of a cd cover with a bunch of flowers on it and a cd disc in the background with a red and orange background and a white border",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "bunch",
+      "flowers",
+      "cd",
+      "disc",
+      "background",
+      "red",
+      "orange",
+      "background",
+      "white",
+      "border"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "title": "16 German Dances, D783 [F. Schubert]",
+    "track": "Alfred Brendel - 16 German Dances, D783 [F. Schubert]",
+    "length": 642,
+    "track_id": 1049433,
+    "release": "Schubert -The Complete Impromptus CD1",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "description_cover": "a close up of a cd cover with a piano and a window in the background with a chair and a table in front of it and a cd disc",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "piano",
+      "window",
+      "background",
+      "chair",
+      "table",
+      "cd",
+      "disc"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alfred Brendel",
+    "title": "3 Klavierstucke, D946 [F. Schubert]",
+    "track": "Alfred Brendel - 3 Klavierstucke, D946 [F. Schubert]",
+    "length": 1425,
+    "track_id": 1054545,
+    "release": "Schubert -The Complete Impromptus CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/d/1/a/4/e/1d1a4e200f849733445813a42552f82d.png",
+    "description_cover": "a close up of a cd cover with a piano and a window in the background with a chair and a table in front of it and a cd disc",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "piano",
+      "window",
+      "background",
+      "chair",
+      "table",
+      "cd",
+      "disc"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.5 In B Flat, D.485 [F. Schubert]",
+    "length": 1708,
+    "track_id": 2938510,
+    "release": "Schubert: Symphonies [Disc 3]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.9 In B, D.575 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.9 In B, D.575 [F. Schubert]",
+    "length": 1497,
+    "track_id": 1054563,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Frank Van De Laar",
+    "title": "Piano Sonata in A flat major D557 [F. Schubert]",
+    "track": "Frank Van De Laar - Piano Sonata in A flat major D557 [F. Schubert]",
+    "length": 855,
+    "track_id": 1046761,
+    "release": "Masterworks Disc 20",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in A flat major Op.90 No.4 - Allegretto [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in A flat major Op.90 No.4 - Allegretto [F. Schubert]",
+    "length": 477,
+    "track_id": 1046752,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berliner Philharmoniker, Herbert von Karajan",
+    "title": "Symphony No.8 In B Minor, D759, 'Unfinished' [F. Schubert]",
+    "track": "Berliner Philharmoniker, Herbert von Karajan - Symphony No.8 In B Minor, D759, 'Unfinished' [F. Schubert]",
+    "length": 1572,
+    "track_id": 1024045,
+    "release": "Karajan - The Complete EMI Recordings CD73",
+    "art_url": "//cdn-images.audioaddict.com/6/a/0/3/c/9/6a03c9515a292fd6b94682fb8bbde816.jpg",
+    "description_cover": "a close up of a cd cover of a man holding a cell phone in his hand and a microphone in his other hand, with a red band",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "holding",
+      "cell",
+      "phone",
+      "hand",
+      "microphone",
+      "other",
+      "hand,",
+      "red",
+      "band"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.13 in A major, D.664 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.13 in A major, D.664 [F. Schubert]",
+    "length": 1242,
+    "track_id": 1054554,
+    "release": "Piano (Disc 26) Schubert Sonatas D 664, 625 & 575",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Piano Sonata in F minor D625 [F. Schubert]",
+    "track": "Alwin Baer - Piano Sonata in F minor D625 [F. Schubert]",
+    "length": 1174,
+    "track_id": 1046778,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martin van den Hoek",
+    "title": "Fantasie in C major, D760, 'Wanderer Fantasie' [F. Schubert]",
+    "track": "Martin van den Hoek - Fantasie in C major, D760, 'Wanderer Fantasie' [F. Schubert]",
+    "length": 1295,
+    "track_id": 1054578,
+    "release": "Masterworks Disc 27",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.3, in B flat major, D.36 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.3, in B flat major, D.36 [F. Schubert]",
+    "length": 1590,
+    "track_id": 1040248,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Uwe Grodd, Matteo Napoli",
+    "title": "Arpeggione Sonata in A minor, D821 [F. Schubert]",
+    "track": "Uwe Grodd, Matteo Napoli - Arpeggione Sonata in A minor, D821 [F. Schubert]",
+    "length": 1438,
+    "track_id": 1054579,
+    "release": "Schubert Music for Flute and Piano",
+    "art_url": "//cdn-images.audioaddict.com/e/f/7/2/c/5/ef72c5e94963c0e035c103adbb71e305.png",
+    "description_cover": "a close up of a flute with a red background and a white background with the words schubert music for flute and piano, written in german and english",
+    "description_tags": [
+      "close",
+      "up",
+      "flute",
+      "red",
+      "background",
+      "white",
+      "background",
+      "words",
+      "schubert",
+      "music",
+      "flute",
+      "piano,",
+      "written",
+      "german",
+      "english"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Nadia Labrie",
+    "title": "Introduction and Variations on Trockne Blumen in E Minor, D. 802 [F. Schubert]",
+    "track": "Nadia Labrie - Introduction and Variations on Trockne Blumen in E Minor, D. 802 [F. Schubert]",
+    "length": 1276,
+    "track_id": 3015602,
+    "release": "Flute Passion: Schubert",
+    "art_url": "//cdn-images.audioaddict.com/2/9/f/4/3/8/29f438011578cadd4d3284d812054466.jpg",
+    "description_cover": "a close up of a woman with long blonde hair smiling at the camera with a white background and a black shirt on her chest and a black top",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "long",
+      "blonde",
+      "hair",
+      "smiling",
+      "camera",
+      "white",
+      "background",
+      "black",
+      "shirt",
+      "her",
+      "chest",
+      "black",
+      "top"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8297703266143799,
+        "box": [
+          470,
+          287,
+          356,
+          348
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Claudio Arrau",
+    "title": "Four Impromptus, D899 - No.3 in G flat major [F. Schubert]",
+    "track": "Claudio Arrau - Four Impromptus, D899 - No.3 in G flat major [F. Schubert]",
+    "length": 401,
+    "track_id": 1049431,
+    "release": "Schubert - The Late Piano Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/6/2/8/9/0/2/628902a92481bdfe58a9d37e27b5c2fa.jpg",
+    "description_cover": "a picture of a picture of a piano and a chair in a room with a cd on the table and a chair in the background with a window",
+    "description_tags": [
+      "picture",
+      "picture",
+      "piano",
+      "chair",
+      "room",
+      "cd",
+      "table",
+      "chair",
+      "background",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.14 In A Minor, D.784 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.14 In A Minor, D.784 [F. Schubert]",
+    "length": 1106,
+    "track_id": 1054555,
+    "release": "Piano (Disc 25) Schubert Sonatas D 845, 840 & 784",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Melos Quartet",
+    "title": "String Quartet No.1 (in various keys), D.18 [F. Schubert]",
+    "track": "Melos Quartet - String Quartet No.1 (in various keys), D.18 [F. Schubert]",
+    "length": 1066,
+    "track_id": 1040240,
+    "release": "Schubert - String Quartets CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/0/3/2/5/900325e74ab166022222d3af50de5aa5.jpg",
+    "description_cover": "a close up of a book cover with a black and white photo of trees on a hill in the background and a sky with clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "black",
+      "white",
+      "photo",
+      "trees",
+      "hill",
+      "background",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Brandis Quartet",
+    "title": "String Quartet in D minor, D810, 'Der Tod und das Mädchen' [F. Schubert]",
+    "track": "Brandis Quartet - String Quartet in D minor, D810, 'Der Tod und das Mädchen' [F. Schubert]",
+    "length": 2559,
+    "track_id": 1054572,
+    "release": "Masterworks Disc 10",
+    "art_url": "//cdn-images.audioaddict.com/0/6/0/a/5/6/060a56fc1cffb37c7ada53e40600ba73.png",
+    "description_cover": "schubert the master works, vol 1 by various composerss, composerss, and musicians, including the master of the master of the master of the master",
+    "description_tags": [
+      "schubert",
+      "master",
+      "works,",
+      "vol",
+      "1",
+      "various",
+      "composerss,",
+      "composerss,",
+      "musicians,",
+      "including",
+      "master",
+      "master",
+      "master",
+      "master"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7088282108306885,
+        "box": [
+          225,
+          319,
+          86,
+          86
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Tamara Rumiantsev",
+    "title": "Piano Sonata in E flat major D568 [F. Schubert]",
+    "track": "Tamara Rumiantsev - Piano Sonata in E flat major D568 [F. Schubert]",
+    "length": 1400,
+    "track_id": 1046774,
+    "release": "Masterworks Disc 25",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Alwin Baer",
+    "title": "Sonata Movement in C sharp minor D655 [F. Schubert]",
+    "track": "Alwin Baer - Sonata Movement in C sharp minor D655 [F. Schubert]",
+    "length": 265,
+    "track_id": 1046785,
+    "release": "Masterworks Disc 24",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Martijn van den Hoek",
+    "title": "Impromptu in G flat major Op.90 No.3 - Andante [F. Schubert]",
+    "track": "Martijn van den Hoek - Impromptu in G flat major Op.90 No.3 - Andante [F. Schubert]",
+    "length": 338,
+    "track_id": 1046758,
+    "release": "Masterworks Disc 26",
+    "art_url": "//cdn-images.audioaddict.com/3/f/1/d/c/2/3f1dc2ec032cd0b8c4f5808d82340353.jpg",
+    "description_cover": "a picture of a picture of a man with glasses and a red cover with a gold border and a picture of a man with a black coat and white shirt",
+    "description_tags": [
+      "picture",
+      "picture",
+      "man",
+      "glasses",
+      "red",
+      "cover",
+      "gold",
+      "border",
+      "picture",
+      "man",
+      "black",
+      "coat",
+      "white",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.360588014125824,
+        "box": [
+          219,
+          124,
+          97,
+          89
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.3 In D, D.200 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.3 In D, D.200 [F. Schubert]",
+    "length": 1636,
+    "track_id": 2938508,
+    "release": "Schubert: Symphonies [Disc 2]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Arleen Auger, Graham Johnson",
+    "title": "Rosamunde, D797, Op.26 - No.5, Romance 'Der Vollmond strahlt' [F. Schubert]",
+    "track": "Arleen Auger, Graham Johnson - Rosamunde, D797, Op.26 - No.5, Romance 'Der Vollmond strahlt' [F. Schubert]",
+    "length": 230,
+    "track_id": 1049129,
+    "release": "Hyperion Schubert Edition Volume 09",
+    "art_url": "//cdn-images.audioaddict.com/6/0/8/2/d/b/6082db640dc919416291ae0a40eac57c.png",
+    "description_cover": "a close up of a woman in a yellow dress standing by a curtain with a black background and a gold curtain behind her, with a black background",
+    "description_tags": [
+      "close",
+      "up",
+      "woman",
+      "yellow",
+      "dress",
+      "standing",
+      "curtain",
+      "black",
+      "background",
+      "gold",
+      "curtain",
+      "behind",
+      "her,",
+      "black",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.830194354057312,
+        "box": [
+          124,
+          231,
+          109,
+          101
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Elly Ameling, Graham Johnson",
+    "title": "Luisens Antwort 'Wohl weinen Gottes Engel', D319 [F. Schubert]",
+    "track": "Elly Ameling, Graham Johnson - Luisens Antwort 'Wohl weinen Gottes Engel', D319 [F. Schubert]",
+    "length": 231,
+    "track_id": 1049100,
+    "release": "Hyperion Schubert Edition Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png",
+    "description_cover": "a close up of a person sitting on a bench near a tree and a walkway with a tree in the background and a person standing on a bench",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "sitting",
+      "bench",
+      "near",
+      "tree",
+      "walkway",
+      "tree",
+      "background",
+      "person",
+      "standing",
+      "bench"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6608694791793823,
+        "box": [
+          270,
+          192,
+          70,
+          67
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.2 in C, D279 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.2 in C, D279 [F. Schubert]",
+    "length": 1125,
+    "track_id": 1054558,
+    "release": "Piano (Disc 28) Schubert Sonatas D 537, 279 & 157",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Philip Langridge, Graham Johnson",
+    "title": "Alte Liebe rostet nie, D477 [F. Schubert]",
+    "track": "Philip Langridge, Graham Johnson - Alte Liebe rostet nie, D477 [F. Schubert]",
+    "length": 180,
+    "track_id": 1049046,
+    "release": "Hyperion Schubert Edition Volume 04",
+    "art_url": "//cdn-images.audioaddict.com/0/0/d/f/3/a/00df3a7e3d0027d0f1bd27938f7a0fef.jpg",
+    "description_cover": "a close up of a person holding a cigarette in their hand and a cigarette in his hand with a cigarette in his mouth and a cigarette in his hand",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "holding",
+      "cigarette",
+      "their",
+      "hand",
+      "cigarette",
+      "hand",
+      "cigarette",
+      "mouth",
+      "cigarette",
+      "hand"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.5674245357513428,
+        "box": [
+          300,
+          280,
+          152,
+          179
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Piano Sonata No.17 In D, D.850 [F. Schubert]",
+    "track": "Wilhelm Kempff - Piano Sonata No.17 In D, D.850 [F. Schubert]",
+    "length": 2346,
+    "track_id": 1054556,
+    "release": "Piano (Disc 24) Schubert Sonatas D 894 & 850",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Symphony No.7 in E minor/major, D.729 (Realised by Brian Newbould) [F. Schubert]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Symphony No.7 in E minor/major, D.729 (Realised by Brian Newbould) [F. Schubert]",
+    "length": 2297,
+    "track_id": 2942992,
+    "release": "The Ten Symphonies CD5",
+    "art_url": "//cdn-images.audioaddict.com/5/f/f/c/0/5/5ffc0543f13f666f5a913264ab008c2e.jpg",
+    "description_cover": "a close up of a waterfall with a person standing on it's side near a tree and rocks with water flowing down it's sides and trees",
+    "description_tags": [
+      "close",
+      "up",
+      "waterfall",
+      "person",
+      "standing",
+      "it's",
+      "side",
+      "near",
+      "tree",
+      "rocks",
+      "water",
+      "flowing",
+      "down",
+      "it's",
+      "sides",
+      "trees"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Berlin Philharmonic Orchestra, Karl Böhm",
+    "title": "Symphony No.2 In B Flat, D.125 [F. Schubert]",
+    "track": "Berlin Philharmonic Orchestra, Karl Böhm - Symphony No.2 In B Flat, D.125 [F. Schubert]",
+    "length": 1753,
+    "track_id": 2938507,
+    "release": "Schubert: Symphonies [Disc 1]",
+    "art_url": "//cdn-images.audioaddict.com/0/6/f/f/7/1/06ff71e2c271931c3db2d3b97c3feda0.jpg",
+    "description_cover": "a close up of a fountain with a statue in the background and a building in the background with trees in the background and a fountain with a fountain in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "fountain",
+      "statue",
+      "background",
+      "building",
+      "background",
+      "trees",
+      "background",
+      "fountain",
+      "fountain",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wiener Philarmoniker, Karl Munchinger",
+    "title": "Rosamunde D797 - 02. Entr'acte Act I [F. Schubert]",
+    "track": "Wiener Philarmoniker, Karl Munchinger - Rosamunde D797 - 02. Entr'acte Act I [F. Schubert]",
+    "length": 445,
+    "track_id": 921029,
+    "release": "Schubert - Rosamunde Incidental Music",
+    "art_url": "//cdn-images.audioaddict.com/1/e/6/c/5/c/1e6c5c1d4cff7ca90fe89f75c35f3402.jpg",
+    "description_cover": "a close up of a person in a suit playing a piano and a man in a suit and tie standing next to a piano and a piano player",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "suit",
+      "playing",
+      "piano",
+      "man",
+      "suit",
+      "tie",
+      "standing",
+      "next",
+      "piano",
+      "piano",
+      "player"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.7212854027748108,
+        "box": [
+          273,
+          204,
+          87,
+          83
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6147949695587158,
+        "box": [
+          32,
+          309,
+          47,
+          39
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Wilhelm Kempff",
+    "title": "Two Scherzi, D593 - No. 1 in B flat major: Allegretto [F. Schubert]",
+    "track": "Wilhelm Kempff - Two Scherzi, D593 - No. 1 in B flat major: Allegretto [F. Schubert]",
+    "length": 260,
+    "track_id": 1049372,
+    "release": "Piano (Disc 30) Schubert ''Wanderer-Fantasie'' D 760, Piano Pieces D 946 etc.",
+    "art_url": "//cdn-images.audioaddict.com/2/e/a/c/c/2/2eacc2164090bf4d36254a8daefc67c6.png",
+    "description_cover": "a close up of a person playing a piano in a room with a window and a window behind them, and a picture of a man sitting at a piano",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "playing",
+      "piano",
+      "room",
+      "window",
+      "window",
+      "behind",
+      "them,",
+      "picture",
+      "man",
+      "sitting",
+      "piano"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.2919634282588959,
+        "box": [
+          216,
+          180,
+          53,
+          54
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 429,
+    "artist": "Elly Ameling, Graham Johnson",
+    "title": "Meeres Stille 'Tiefe Stille herrscht im Wasser', D216 (Op. 3/2) [F. Schubert]",
+    "track": "Elly Ameling, Graham Johnson - Meeres Stille 'Tiefe Stille herrscht im Wasser', D216 (Op. 3/2) [F. Schubert]",
+    "length": 190,
+    "track_id": 1050241,
+    "release": "Hyperion Schubert Edition Volume 07",
+    "art_url": "//cdn-images.audioaddict.com/2/b/6/b/9/1/2b6b91fcc2910fdeace2e0ec703ad140.png",
+    "description_cover": "a close up of a person sitting on a bench near a tree and a walkway with a tree in the background and a person standing on a bench",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "sitting",
+      "bench",
+      "near",
+      "tree",
+      "walkway",
+      "tree",
+      "background",
+      "person",
+      "standing",
+      "bench"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6608694791793823,
+        "box": [
+          270,
+          192,
+          70,
+          67
+        ]
+      }
+    ],
+    "nsfw": false
+  }
+]

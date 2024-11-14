@@ -1,0 +1,5525 @@
+[
+  {
+    "channel_id": 376,
+    "artist": "Wandsworth School Choir, English Chamber Orchestra",
+    "title": "Judas Maccabaeus, oratorio, HWV 63 - 1. Overture [G.F. Handel]",
+    "track": "Wandsworth School Choir, English Chamber Orchestra - Judas Maccabaeus, oratorio, HWV 63 - 1. Overture [G.F. Handel]",
+    "length": 475,
+    "track_id": 1042993,
+    "release": "Handel: Judas Maccabaeus, Disc 1",
+    "art_url": "//cdn-images.audioaddict.com/1/9/6/6/7/4/196674fe2f24714ca3e3545803a02cbd.jpg",
+    "description_cover": "a picture of a painting of a man in armor with other people around him and a woman in a dress and a man in a red caper",
+    "description_tags": [
+      "picture",
+      "painting",
+      "man",
+      "armor",
+      "other",
+      "people",
+      "around",
+      "him",
+      "woman",
+      "dress",
+      "man",
+      "red",
+      "caper"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Olivier Baumont",
+    "title": "Harpsichord Suite No.2 in G major HWV435, 'Chaconne' [G.F. Handel]",
+    "track": "Olivier Baumont - Harpsichord Suite No.2 in G major HWV435, 'Chaconne' [G.F. Handel]",
+    "length": 689,
+    "track_id": 1042937,
+    "release": "Handel: Harpsichord Suites 1720 & 1733",
+    "art_url": "//cdn-images.audioaddict.com/f/f/c/e/1/b/ffce1b900683a5f3d65b2c54bb441b2c.jpg",
+    "description_cover": "arafed photograph of a man sitting in front of a piano and a green dot on the cover of a book, with a green circle in the background",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "sitting",
+      "piano",
+      "green",
+      "dot",
+      "cover",
+      "book,",
+      "green",
+      "circle",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7968131303787231,
+        "box": [
+          50,
+          132,
+          160,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Scott Ross",
+    "title": "Harpsichord Suite No.3 In D Minor - Allemande [G.F. Handel]",
+    "track": "Scott Ross - Harpsichord Suite No.3 In D Minor - Allemande [G.F. Handel]",
+    "length": 256,
+    "track_id": 1042939,
+    "release": "Handel: 1720 Harpsichord Suites",
+    "art_url": "//cdn-images.audioaddict.com/d/b/e/5/a/e/dbe5ae127722e0d20a3ec0cac4a36530.png",
+    "description_cover": "a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture of a picture",
+    "description_tags": [
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture",
+      "picture"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Rinaldo, HWV 7, Act 2: Il Vostro Maggio De' Bei Verdi Anni [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Rinaldo, HWV 7, Act 2: Il Vostro Maggio De' Bei Verdi Anni [G.F. Handel]",
+    "length": 150,
+    "track_id": 3016917,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Giulio Cesare In Egitto, HWV 17, Act I: V'adoro, Pupille [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Giulio Cesare In Egitto, HWV 17, Act I: V'adoro, Pupille [G.F. Handel]",
+    "length": 250,
+    "track_id": 3016912,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "W. Bennett, K. Sillito, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Sonata in B minor, Op.2 No.1 [G.F. Handel]",
+    "track": "W. Bennett, K. Sillito, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble - Sonata in B minor, Op.2 No.1 [G.F. Handel]",
+    "length": 718,
+    "track_id": 1040140,
+    "release": "Handel - Complete Chamber Music CD01",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "W. Bennett, T. Wye, G. Malcolm, D. Vigay, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Trio Sonata for 2 Flutes and Continuo in E minor, HWV 395 [G.F. Handel]",
+    "track": "W. Bennett, T. Wye, G. Malcolm, D. Vigay, Academy of St. Martin in the Fields Chamber Ensemble - Trio Sonata for 2 Flutes and Continuo in E minor, HWV 395 [G.F. Handel]",
+    "length": 622,
+    "track_id": 1043013,
+    "release": "Handel: Complete Wind Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in B Minor Op. 6, No.12, HWV 330 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in B Minor Op. 6, No.12, HWV 330 [G.F. Handel]",
+    "length": 643,
+    "track_id": 2963061,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in B Minor, Op. 19b, HWV 367b [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in B Minor, Op. 19b, HWV 367b [G.F. Handel]",
+    "length": 872,
+    "track_id": 3097376,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy Of St. Martin In The Fields Chamber Ensemble",
+    "title": "Oboe Sonata in f major, HWV 363a 'G. F. Handel' [G.F. Handel]",
+    "track": "Academy Of St. Martin In The Fields Chamber Ensemble - Oboe Sonata in f major, HWV 363a 'G. F. Handel' [G.F. Handel]",
+    "length": 482,
+    "track_id": 1043004,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "K. Sillito, M. Latchem, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble, Denis Vigay",
+    "title": "Sonata in G minor for 2 violons and continuo [G.F. Handel]",
+    "track": "K. Sillito, M. Latchem, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble, Denis Vigay - Sonata in G minor for 2 violons and continuo [G.F. Handel]",
+    "length": 684,
+    "track_id": 1040149,
+    "release": "Handel - Masterworks CD10",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Petri, E. Selin, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Trio Sonata for 2 Recorders and Continuo in F, HWV 405 [G.F. Handel]",
+    "track": "M. Petri, E. Selin, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble - Trio Sonata for 2 Recorders and Continuo in F, HWV 405 [G.F. Handel]",
+    "length": 390,
+    "track_id": 1043014,
+    "release": "Handel: Complete Wind Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.16 in F HWV 305a [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.16 in F HWV 305a [G.F. Handel]",
+    "length": 817,
+    "track_id": 1042986,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.12 in B flat, Op.7 No.6 HWV 311 - 4. A tempo ordinario [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.12 in B flat, Op.7 No.6 HWV 311 - 4. A tempo ordinario [G.F. Handel]",
+    "length": 219,
+    "track_id": 1042982,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Messiah, HWV 56, Part 1 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Messiah, HWV 56, Part 1 [G.F. Handel]",
+    "length": 3230,
+    "track_id": 1042972,
+    "release": "Handel - Messiah Disc 1",
+    "art_url": "//cdn-images.audioaddict.com/e/a/9/e/d/b/ea9edb080edeb5e8985684813b874fa3.jpg",
+    "description_cover": "a close up of a painting of a baby in a manger with a manger in the background and a christmas scene in the background with a manger",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "baby",
+      "manger",
+      "manger",
+      "background",
+      "christmas",
+      "scene",
+      "background",
+      "manger"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6157615780830383,
+        "box": [
+          104,
+          117,
+          73,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 3. Andante larghetto e staccato [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 3. Andante larghetto e staccato [G.F. Handel]",
+    "length": 320,
+    "track_id": 1042979,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in B Minor, HWV 376 \"Halle No. 3\" [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in B Minor, HWV 376 \"Halle No. 3\" [G.F. Handel]",
+    "length": 404,
+    "track_id": 3097375,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Faramondo - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Faramondo - Overture [G.F. Handel]",
+    "length": 502,
+    "track_id": 924741,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In B Flat, Op.3, No.2 HWV 313 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In B Flat, Op.3, No.2 HWV 313 [G.F. Handel]",
+    "length": 753,
+    "track_id": 1030456,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "length": 521,
+    "track_id": 3097383,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "description_cover": "arafed image of a man in a suit holding a trumpet in front of a building with a door and a window in the background and a tree",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "holding",
+      "trumpet",
+      "building",
+      "door",
+      "window",
+      "background",
+      "tree"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8103917241096497,
+        "box": [
+          266,
+          265,
+          267,
+          262
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Organ Concerto No.10 in D minor, Op.7 No.4 HWV 309, Arr. for harp and orchestra by N.Zabaleta [G.F. Handel]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Organ Concerto No.10 in D minor, Op.7 No.4 HWV 309, Arr. for harp and orchestra by N.Zabaleta [G.F. Handel]",
+    "length": 952,
+    "track_id": 1042976,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "description_cover": "bach handel, jw - concertos for piano and orchestra, vol 1, cd, digital remastered, digital remastered, cd, cd, cd",
+    "description_tags": [
+      "bach",
+      "handel,",
+      "jw",
+      "concertos",
+      "piano",
+      "orchestra,",
+      "vol",
+      "1,",
+      "cd,",
+      "digital",
+      "remastered,",
+      "digital",
+      "remastered,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St Martin in Fields, N. Marriner",
+    "title": "Solomon, oratorio, HWV 67 - Arrival of the Queen of Sheba [G.F. Handel]",
+    "track": "Academy of St Martin in Fields, N. Marriner - Solomon, oratorio, HWV 67 - Arrival of the Queen of Sheba [G.F. Handel]",
+    "length": 191,
+    "track_id": 1043001,
+    "release": "Handel - Masterworks CD08",
+    "art_url": "//cdn-images.audioaddict.com/f/c/f/4/7/b/fcf47b57c3c3f9de36823423d3d5a99f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7256491780281067,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Rinaldo, HWV 7, Act 1: Sulla Ruota Di Fortuna [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Rinaldo, HWV 7, Act 1: Sulla Ruota Di Fortuna [G.F. Handel]",
+    "length": 177,
+    "track_id": 3016915,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "G. Jenemann, Baroque Ensemble",
+    "title": "Chandos Te Deum, HWV281 [G.F. Handel]",
+    "track": "G. Jenemann, Baroque Ensemble - Chandos Te Deum, HWV281 [G.F. Handel]",
+    "length": 1990,
+    "track_id": 1042997,
+    "release": "Handel - Chandos Te Deum and Chandos Anthem",
+    "art_url": "//cdn-images.audioaddict.com/d/9/4/f/6/b/d94f6b2f63751d71b4d99f5ebeacf597.jpg",
+    "description_cover": "a close up of a cd cover with a woman holding a flower in her hand and a painting of a lady in a blue dress in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "woman",
+      "holding",
+      "flower",
+      "her",
+      "hand",
+      "painting",
+      "lady",
+      "blue",
+      "dress",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6539902091026306,
+        "box": [
+          104,
+          68,
+          44,
+          42
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.2655143141746521,
+        "box": [
+          144,
+          140,
+          35,
+          46
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.2502719759941101,
+        "box": [
+          107,
+          148,
+          45,
+          47
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy Of St. Martin In The Fields Chamber Ensemble",
+    "title": "Sinfonia for 2 Violins and Continuo in B flat, HWV 338 [G.F. Handel]",
+    "track": "Academy Of St. Martin In The Fields Chamber Ensemble - Sinfonia for 2 Violins and Continuo in B flat, HWV 338 [G.F. Handel]",
+    "length": 629,
+    "track_id": 3010325,
+    "release": "Handel: Complete Wind Sonatas CD1",
+    "art_url": "//cdn-images.audioaddict.com/1/1/8/4/3/d/11843db10153544200f1fad0b9066bfa.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Recorder Sonata in A minor, Op.1, No.4, HWV 362 [G.F. Handel]",
+    "track": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble - Recorder Sonata in A minor, Op.1, No.4, HWV 362 [G.F. Handel]",
+    "length": 618,
+    "track_id": 1043005,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, Malcolm Latchem",
+    "title": "Trio sonata for 2 violins & continuo in F major, HWV 392 [G.F. Handel]",
+    "track": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, Malcolm Latchem - Trio sonata for 2 violins & continuo in F major, HWV 392 [G.F. Handel]",
+    "length": 789,
+    "track_id": 3010331,
+    "release": "Handel: The Complete Chamber Music (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/c/9/3/b/0ec93b6026be21dee7194093b9f03032.jpg",
+    "description_cover": "a picture of a black and white photo of a musical instrument with a violin in the background and a key on the cover of a book with the title",
+    "description_tags": [
+      "picture",
+      "black",
+      "white",
+      "photo",
+      "musical",
+      "instrument",
+      "violin",
+      "background",
+      "key",
+      "cover",
+      "book",
+      "title"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Baroque Soloists,  J.E. Gardiner",
+    "title": "Il Pastor Fido, HWV 8a [G.F. Handel]",
+    "track": "English Baroque Soloists,  J.E. Gardiner - Il Pastor Fido, HWV 8a [G.F. Handel]",
+    "length": 538,
+    "track_id": 1042960,
+    "release": "Handel - Alcina, Il pastor fido, Terpsichore (ballet music)",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In B Flat, Op.3, No.1 HWV 312 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In B Flat, Op.3, No.1 HWV 312 [G.F. Handel]",
+    "length": 526,
+    "track_id": 1042905,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Harp Concerto in B flat major, Op.4/6, HWV 294 - Andante allegro [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Harp Concerto in B flat major, Op.4/6, HWV 294 - Andante allegro [G.F. Handel]",
+    "length": 170,
+    "track_id": 2991396,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in F Major Op. 6, No.9, HWV 327 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in F Major Op. 6, No.9, HWV 327 [G.F. Handel]",
+    "length": 792,
+    "track_id": 2963065,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 4. Menuet [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 4. Menuet [G.F. Handel]",
+    "length": 189,
+    "track_id": 1042980,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Music for the Royal Fireworks: Suite HWV 351 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Music for the Royal Fireworks: Suite HWV 351 [G.F. Handel]",
+    "length": 1038,
+    "track_id": 1030470,
+    "release": "Music for the Royal Fireworks; Water Music",
+    "art_url": "//cdn-images.audioaddict.com/a/f/c/8/3/f/afc83fc9817225c8a6376e13a5e85002.jpg",
+    "description_cover": "a close up of a painting of a boat on a body of water with a bridge in the background and a city in the distance with a boat in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "boat",
+      "body",
+      "water",
+      "bridge",
+      "background",
+      "city",
+      "distance",
+      "boat",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Choir and Orchestra Of Westminster Abbey, Simon Preston",
+    "title": "Nisi Dominus in G major, HWV 238 [Georg Frideric Handel]",
+    "track": "Choir and Orchestra Of Westminster Abbey, Simon Preston - Nisi Dominus in G major, HWV 238 [Georg Frideric Handel]",
+    "length": 742,
+    "track_id": 1043000,
+    "release": "Handel: Dixit Dominus, Nisi Dominus, Salve Regina",
+    "art_url": "//cdn-images.audioaddict.com/1/c/6/c/3/d/1c6c3d1bff83a56ee77f06bc5b0faec6.jpg",
+    "description_cover": "a close up of a painting of two men on a cross with a sky background and a sky background with clouds and a sky background with a sky",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "two",
+      "men",
+      "cross",
+      "sky",
+      "background",
+      "sky",
+      "background",
+      "clouds",
+      "sky",
+      "background",
+      "sky"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5455765724182129,
+        "box": [
+          96,
+          182,
+          32,
+          31
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Concerto Grosso in G major, Op.33, HWV 314 [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Concerto Grosso in G major, Op.33, HWV 314 [G.F. Handel]",
+    "length": 410,
+    "track_id": 2991839,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Amadigi Di Gaula, HWV 11, Act 2: Tu Mia Speranza [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Amadigi Di Gaula, HWV 11, Act 2: Tu Mia Speranza [G.F. Handel]",
+    "length": 192,
+    "track_id": 3016911,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34, Act 3: Un Momento Di Contento [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34, Act 3: Un Momento Di Contento [G.F. Handel]",
+    "length": 265,
+    "track_id": 3016908,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, Malcolm Latchem",
+    "title": "Trio sonata for 2 violins & continuo in G minor, Op. 2/8, HWV 393 (doubtful) [G.F. Handel]",
+    "track": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, Malcolm Latchem - Trio sonata for 2 violins & continuo in G minor, Op. 2/8, HWV 393 (doubtful) [G.F. Handel]",
+    "length": 684,
+    "track_id": 3010332,
+    "release": "Handel: The Complete Chamber Music (Disc 2)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/c/9/3/b/0ec93b6026be21dee7194093b9f03032.jpg",
+    "description_cover": "a picture of a black and white photo of a musical instrument with a violin in the background and a key on the cover of a book with the title",
+    "description_tags": [
+      "picture",
+      "black",
+      "white",
+      "photo",
+      "musical",
+      "instrument",
+      "violin",
+      "background",
+      "key",
+      "cover",
+      "book",
+      "title"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Organ Concerto No.6 in B flat, Op.4 No.6, HWV 294, Version for harp [G.F. Handel]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Organ Concerto No.6 in B flat, Op.4 No.6, HWV 294, Version for harp [G.F. Handel]",
+    "length": 818,
+    "track_id": 1042172,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "description_cover": "bach handel, jw - concertos for piano and orchestra, vol 1, cd, digital remastered, digital remastered, cd, cd, cd",
+    "description_tags": [
+      "bach",
+      "handel,",
+      "jw",
+      "concertos",
+      "piano",
+      "orchestra,",
+      "vol",
+      "1,",
+      "cd,",
+      "digital",
+      "remastered,",
+      "digital",
+      "remastered,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In D Minor, Op.3, No.5 HWV 316 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In D Minor, Op.3, No.5 HWV 316 [G.F. Handel]",
+    "length": 592,
+    "track_id": 1030461,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Ariodante, HWV 33 - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Ariodante, HWV 33 - Overture [G.F. Handel]",
+    "length": 378,
+    "track_id": 924733,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "W. Bennett, K. Sillito, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Sonata in G minor, Op.2 No.2 [G.F. Handel]",
+    "track": "W. Bennett, K. Sillito, D. Vigay, G. Malcolm, Academy of St. Martin in the Fields Chamber Ensemble - Sonata in G minor, Op.2 No.2 [G.F. Handel]",
+    "length": 552,
+    "track_id": 1040146,
+    "release": "Handel - Complete Chamber Music CD01",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Baroque Soloists,  J.E. Gardiner",
+    "title": "Alcina, Ballet Music, HWV 34, Act 2 [G.F. Handel]",
+    "track": "English Baroque Soloists,  J.E. Gardiner - Alcina, Ballet Music, HWV 34, Act 2 [G.F. Handel]",
+    "length": 773,
+    "track_id": 1042897,
+    "release": "Handel - Alcina, Il pastor fido, Terpsichore (ballet music)",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "G. Jenemann, Baroque Ensemble",
+    "title": "Chandos Anthen, 'Let God Arise', HWV256a [G.F. Handel]",
+    "track": "G. Jenemann, Baroque Ensemble - Chandos Anthen, 'Let God Arise', HWV256a [G.F. Handel]",
+    "length": 1340,
+    "track_id": 1042996,
+    "release": "Handel - Chandos Te Deum and Chandos Anthem",
+    "art_url": "//cdn-images.audioaddict.com/d/9/4/f/6/b/d94f6b2f63751d71b4d99f5ebeacf597.jpg",
+    "description_cover": "a close up of a cd cover with a woman holding a flower in her hand and a painting of a lady in a blue dress in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "woman",
+      "holding",
+      "flower",
+      "her",
+      "hand",
+      "painting",
+      "lady",
+      "blue",
+      "dress",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6539902091026306,
+        "box": [
+          104,
+          68,
+          44,
+          42
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.2655143141746521,
+        "box": [
+          144,
+          140,
+          35,
+          46
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.2502719759941101,
+        "box": [
+          107,
+          148,
+          45,
+          47
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Water Music Suite No.1 in F, HWV 348 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Water Music Suite No.1 in F, HWV 348 [G.F. Handel]",
+    "length": 1863,
+    "track_id": 1030473,
+    "release": "Handel - Orchestral Works CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Olivier Baumont",
+    "title": "Harpsichord Suite No.5 in E major, HWV430 [G.F. Handel]",
+    "track": "Olivier Baumont - Harpsichord Suite No.5 in E major, HWV430 [G.F. Handel]",
+    "length": 744,
+    "track_id": 1042947,
+    "release": "Handel: Harpsichord Suites 1720 & 1733",
+    "art_url": "//cdn-images.audioaddict.com/3/d/b/7/8/e/3db78e9541a1657deaf7dc0f34caa206.png",
+    "description_cover": "arafed photograph of a man sitting in front of a piano and a green dot on the cover of a book, with a green circle in the background",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "sitting",
+      "piano",
+      "green",
+      "dot",
+      "cover",
+      "book,",
+      "green",
+      "circle",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7968131303787231,
+        "box": [
+          50,
+          132,
+          160,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "King's College Choir of Cambridge, Brandenburg Consort",
+    "title": "Israel in Egypt, oratorio, HWV 54, Moses' Song [G.F. Handel]",
+    "track": "King's College Choir of Cambridge, Brandenburg Consort - Israel in Egypt, oratorio, HWV 54, Moses' Song [G.F. Handel]",
+    "length": 2944,
+    "track_id": 1042963,
+    "release": "Handel: Israel in Egypt, Disc 2",
+    "art_url": "//cdn-images.audioaddict.com/a/b/e/b/1/e/abeb1eb8a01b6d3245fcdf821df9e096.jpg",
+    "description_cover": "a close up of a concert poster with a picture of a man holding a microphone in front of a crowd of people in a red room with a red wall",
+    "description_tags": [
+      "close",
+      "up",
+      "concert",
+      "poster",
+      "picture",
+      "man",
+      "holding",
+      "microphone",
+      "crowd",
+      "people",
+      "red",
+      "room",
+      "red",
+      "wall"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Oboe Concerto in G minor, No.3, HWV 287 (possibly spurious) [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Oboe Concerto in G minor, No.3, HWV 287 (possibly spurious) [G.F. Handel]",
+    "length": 614,
+    "track_id": 1042161,
+    "release": "Handel - Masterworks CD08",
+    "art_url": "//cdn-images.audioaddict.com/f/c/f/4/7/b/fcf47b57c3c3f9de36823423d3d5a99f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7256491780281067,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.15 in D minor HWV 304 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.15 in D minor HWV 304 [G.F. Handel]",
+    "length": 758,
+    "track_id": 1042985,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto a due cori No.2, HWV 333 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto a due cori No.2, HWV 333 [G.F. Handel]",
+    "length": 949,
+    "track_id": 1042902,
+    "release": "Handel - Masterworks CD08",
+    "art_url": "//cdn-images.audioaddict.com/f/c/f/4/7/b/fcf47b57c3c3f9de36823423d3d5a99f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7256491780281067,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Organ Concerto in F major, Op.4/5, HWV 293 [G.F. Handel]",
+    "length": 590,
+    "track_id": 2991398,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Colin Tilney, Academy of St. Martin-in-the-Fields, Neville Marriner",
+    "title": "Water Music Suite No. 1 for orchestra in F major, HWV 348: Air [G.F. Handel]",
+    "track": "Colin Tilney, Academy of St. Martin-in-the-Fields, Neville Marriner - Water Music Suite No. 1 for orchestra in F major, HWV 348: Air [G.F. Handel]",
+    "length": 203,
+    "track_id": 3010324,
+    "release": "Handel: Music for the Royal Fireworks; Water Music",
+    "art_url": "//cdn-images.audioaddict.com/5/f/5/1/d/f/5f51dfcde3dca0573a664eac6194e74f.jpg",
+    "description_cover": "a close up of a painting of a boat on a river near a bridge and buildings with a sky background and a red ribbon around it that says handel music for the royal waterways",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "boat",
+      "river",
+      "near",
+      "bridge",
+      "buildings",
+      "sky",
+      "background",
+      "red",
+      "ribbon",
+      "around",
+      "says",
+      "handel",
+      "music",
+      "royal",
+      "waterways"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In D, Op.3, No.6 HWV 317 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In D, Op.3, No.6 HWV 317 [G.F. Handel]",
+    "length": 387,
+    "track_id": 1042910,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "W. Bennett, T. Wye, G. Malcolm, D. Vigay, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Trio Sonata for 2 Flutes and Continuo in G minor, Op.2, No.6, HWV 391 [G.F. Handel]",
+    "track": "W. Bennett, T. Wye, G. Malcolm, D. Vigay, Academy of St. Martin in the Fields Chamber Ensemble - Trio Sonata for 2 Flutes and Continuo in G minor, Op.2, No.6, HWV 391 [G.F. Handel]",
+    "length": 552,
+    "track_id": 1040148,
+    "release": "Handel - Masterworks CD10",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34, Act Iii: Credete Al Mio Dolore [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34, Act Iii: Credete Al Mio Dolore [G.F. Handel]",
+    "length": 212,
+    "track_id": 3016909,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in D Major, HWV 378 [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in D Major, HWV 378 [G.F. Handel]",
+    "length": 415,
+    "track_id": 3097377,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Olivier Baumont",
+    "title": "Harpsichord Suite No.7 in G minor, HWV432 [G.F. Handel]",
+    "track": "Olivier Baumont - Harpsichord Suite No.7 in G minor, HWV432 [G.F. Handel]",
+    "length": 954,
+    "track_id": 1042950,
+    "release": "Handel: Harpsichord Suites 1720 & 1733",
+    "art_url": "//cdn-images.audioaddict.com/f/f/c/e/1/b/ffce1b900683a5f3d65b2c54bb441b2c.jpg",
+    "description_cover": "arafed photograph of a man sitting in front of a piano and a green dot on the cover of a book, with a green circle in the background",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "sitting",
+      "piano",
+      "green",
+      "dot",
+      "cover",
+      "book,",
+      "green",
+      "circle",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7968131303787231,
+        "box": [
+          50,
+          132,
+          160,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34, Act 2: Verdi Prati, Selva Amene [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34, Act 2: Verdi Prati, Selva Amene [G.F. Handel]",
+    "length": 236,
+    "track_id": 3016907,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Recorder Sonata in D minor, Op.1, No.8a, HWV 367a [G.F. Handel]",
+    "track": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble - Recorder Sonata in D minor, Op.1, No.8a, HWV 367a [G.F. Handel]",
+    "length": 887,
+    "track_id": 1043010,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Rêveuse, Florence Bolton, Benjamin Perrot",
+    "title": "Trio sonata No. 5, Op. 2, HWV 390 [G.F. Handel]",
+    "track": "La Rêveuse, Florence Bolton, Benjamin Perrot - Trio sonata No. 5, Op. 2, HWV 390 [G.F. Handel]",
+    "length": 694,
+    "track_id": 3082065,
+    "release": "London circa 1740: Handel's musicians",
+    "art_url": "//cdn-images.audioaddict.com/b/6/3/d/3/3/b63d337d42d43f5a3250b5b9d643a12d.jpg",
+    "description_cover": "a picture of a painting of a building in a park with people walking around it and a dog sitting on a bench in the foreground of the picture",
+    "description_tags": [
+      "picture",
+      "painting",
+      "building",
+      "park",
+      "people",
+      "walking",
+      "around",
+      "dog",
+      "sitting",
+      "bench",
+      "foreground",
+      "picture"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert  & Choir, Trevor Pinnock",
+    "title": "Ode for St. Cecilia's Day [G.F. Handel]",
+    "track": "The English Concert  & Choir, Trevor Pinnock - Ode for St. Cecilia's Day [G.F. Handel]",
+    "length": 2984,
+    "track_id": 1042975,
+    "release": "Ode for St. Cecilia's Day",
+    "art_url": "//cdn-images.audioaddict.com/d/4/a/5/f/0/d4a5f0764b57725ad3902d43e6255ef4.png",
+    "description_cover": "a black and white photo of a man with a shirt on and a poster of him in the background with the words handel o for st cecilia of cecilia's day",
+    "description_tags": [
+      "black",
+      "white",
+      "photo",
+      "man",
+      "shirt",
+      "poster",
+      "him",
+      "background",
+      "words",
+      "handel",
+      "o",
+      "st",
+      "cecilia",
+      "cecilia's",
+      "day"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Oboe Concerto No.2 in B flat, HWV 302a [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Oboe Concerto No.2 in B flat, HWV 302a [G.F. Handel]",
+    "length": 521,
+    "track_id": 1042163,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto grosso in D minor, Op.3, No.5 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto grosso in D minor, Op.3, No.5 [G.F. Handel]",
+    "length": 641,
+    "track_id": 1042908,
+    "release": "Concerti Grossi op. 6 & 3 [Marriner], Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/8/5/f/e/3/b/85fe3b6471ad536ee15a42e23bbd11a1.jpg",
+    "description_cover": "arafed image of a concert poster with a picture of a city in the background and a boat in the water in the foreground and a bridge in the foreground",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "poster",
+      "picture",
+      "city",
+      "background",
+      "boat",
+      "water",
+      "foreground",
+      "bridge",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "King's College Choir of Cambridge, Brandenburg Consort",
+    "title": "Israel in Egypt, oratorio, HWV 54, Exodus [G.F. Handel]",
+    "track": "King's College Choir of Cambridge, Brandenburg Consort - Israel in Egypt, oratorio, HWV 54, Exodus [G.F. Handel]",
+    "length": 1779,
+    "track_id": 1042962,
+    "release": "Handel: Israel in Egypt, Disc 1",
+    "art_url": "//cdn-images.audioaddict.com/a/b/e/b/1/e/abeb1eb8a01b6d3245fcdf821df9e096.jpg",
+    "description_cover": "a close up of a concert poster with a picture of a man holding a microphone in front of a crowd of people in a red room with a red wall",
+    "description_tags": [
+      "close",
+      "up",
+      "concert",
+      "poster",
+      "picture",
+      "man",
+      "holding",
+      "microphone",
+      "crowd",
+      "people",
+      "red",
+      "room",
+      "red",
+      "wall"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Olivier Baumont",
+    "title": "Fantaisie in C major HWV490 [G.F. Handel]",
+    "track": "Olivier Baumont - Fantaisie in C major HWV490 [G.F. Handel]",
+    "length": 210,
+    "track_id": 1042932,
+    "release": "Handel: Harpsichord Suites 1720 & 1733",
+    "art_url": "//cdn-images.audioaddict.com/f/f/c/e/1/b/ffce1b900683a5f3d65b2c54bb441b2c.jpg",
+    "description_cover": "arafed photograph of a man sitting in front of a piano and a green dot on the cover of a book, with a green circle in the background",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "sitting",
+      "piano",
+      "green",
+      "dot",
+      "cover",
+      "book,",
+      "green",
+      "circle",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7968131303787231,
+        "box": [
+          50,
+          132,
+          160,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Harp Concerto in B flat major, Op.4/6, HWV 294 [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Harp Concerto in B flat major, Op.4/6, HWV 294 [G.F. Handel]",
+    "length": 810,
+    "track_id": 2991397,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Sosarme - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Sosarme - Overture [G.F. Handel]",
+    "length": 313,
+    "track_id": 924738,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto Grosso in D, Op.6, No.5, HWV 323 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto Grosso in D, Op.6, No.5, HWV 323 [G.F. Handel]",
+    "length": 956,
+    "track_id": 1030462,
+    "release": "Handel - Orchestral Works CD5",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Alan Curtis, Il Complesso Barocco",
+    "title": "Lotario, HWV 26 - Overture [G.F. Handel]",
+    "track": "Alan Curtis, Il Complesso Barocco - Lotario, HWV 26 - Overture [G.F. Handel]",
+    "length": 299,
+    "track_id": 1042968,
+    "release": "Handel Lotario CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/7/0/f/7/1/370f71499a0bb471a3c360232cf19365.png",
+    "description_cover": "a close up of a chess board with a lot of pieces on it and a person on a horse in the background with a sky background and a red sky",
+    "description_tags": [
+      "close",
+      "up",
+      "chess",
+      "board",
+      "lot",
+      "pieces",
+      "person",
+      "horse",
+      "background",
+      "sky",
+      "background",
+      "red",
+      "sky"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in E Minor, Op. 1/1a, HWV 379 [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in E Minor, Op. 1/1a, HWV 379 [G.F. Handel]",
+    "length": 669,
+    "track_id": 3097379,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, William Bennett",
+    "title": "Trio sonata for flute/violin, violin & continuo in B minor, Op. 2/1, HWV 386b [G.F. Handel]",
+    "track": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, William Bennett - Trio sonata for flute/violin, violin & continuo in B minor, Op. 2/1, HWV 386b [G.F. Handel]",
+    "length": 718,
+    "track_id": 3010330,
+    "release": "Handel: The Complete Chamber Music (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/c/9/3/b/0ec93b6026be21dee7194093b9f03032.jpg",
+    "description_cover": "a picture of a black and white photo of a musical instrument with a violin in the background and a key on the cover of a book with the title",
+    "description_tags": [
+      "picture",
+      "black",
+      "white",
+      "photo",
+      "musical",
+      "instrument",
+      "violin",
+      "background",
+      "key",
+      "cover",
+      "book",
+      "title"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Baroque Soloists, John Eliot Gardiner",
+    "title": "Terpsichore, HWV 8b [G.F. Handel]",
+    "track": "English Baroque Soloists, John Eliot Gardiner - Terpsichore, HWV 8b [G.F. Handel]",
+    "length": 670,
+    "track_id": 1040042,
+    "release": "Handel - Alcina, Il pastor fido, Terpsichore (ballet music)",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Choir Of Westminster Abbey, The English Consort, T. Pinnock, S. Preston",
+    "title": "The Dettingen Te Deum [Georg Frideric Handel]",
+    "track": "Choir Of Westminster Abbey, The English Consort, T. Pinnock, S. Preston - The Dettingen Te Deum [Georg Frideric Handel]",
+    "length": 3257,
+    "track_id": 1042995,
+    "release": "Dettingen Te Deum; Dettingen Anthem [Preston]",
+    "art_url": "//cdn-images.audioaddict.com/0/b/2/2/e/0/0b22e09023f2663e86d38e73948aa07a.jpg",
+    "description_cover": "a close up of a poster of a battle with a map in the background and a map in the foreground with a map in the background and a map in the foreground",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "battle",
+      "map",
+      "background",
+      "map",
+      "foreground",
+      "map",
+      "background",
+      "map",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Choir and Orchestra Of Westminster Abbey, Simon Preston",
+    "title": "Salve Regina in G minor, HWV 241: I. Salve Regina [Georg Frideric Handel]",
+    "track": "Choir and Orchestra Of Westminster Abbey, Simon Preston - Salve Regina in G minor, HWV 241: I. Salve Regina [Georg Frideric Handel]",
+    "length": 678,
+    "track_id": 1042892,
+    "release": "Handel: Dixit Dominus, Nisi Dominus, Salve Regina",
+    "art_url": "//cdn-images.audioaddict.com/1/c/6/c/3/d/1c6c3d1bff83a56ee77f06bc5b0faec6.jpg",
+    "description_cover": "a close up of a painting of two men on a cross with a sky background and a sky background with clouds and a sky background with a sky",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "two",
+      "men",
+      "cross",
+      "sky",
+      "background",
+      "sky",
+      "background",
+      "clouds",
+      "sky",
+      "background",
+      "sky"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.5455765724182129,
+        "box": [
+          96,
+          182,
+          32,
+          31
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto grosso in D, Op.3, No.6, HWV 317 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto grosso in D, Op.3, No.6, HWV 317 [G.F. Handel]",
+    "length": 405,
+    "track_id": 1042911,
+    "release": "Handel - Masterworks CD04",
+    "art_url": "//cdn-images.audioaddict.com/8/5/f/e/3/b/85fe3b6471ad536ee15a42e23bbd11a1.jpg",
+    "description_cover": "arafed image of a concert poster with a picture of a city in the background and a boat in the water in the foreground and a bridge in the foreground",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "poster",
+      "picture",
+      "city",
+      "background",
+      "boat",
+      "water",
+      "foreground",
+      "bridge",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In G, Op.3, No.3 HWV 314 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In G, Op.3, No.3 HWV 314 [G.F. Handel]",
+    "length": 473,
+    "track_id": 1042914,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in G Major, Op. 1/5, HWV 363b [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in G Major, Op. 1/5, HWV 363b [G.F. Handel]",
+    "length": 444,
+    "track_id": 3097381,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in E Minor, Op. 1/1b, HWV 359b [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in E Minor, Op. 1/1b, HWV 359b [G.F. Handel]",
+    "length": 411,
+    "track_id": 3097380,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Sophie Yates",
+    "title": "Harpsichord Suite No.8 in F minor, HWV433 [G.F. Handel]",
+    "track": "Sophie Yates - Harpsichord Suite No.8 in F minor, HWV433 [G.F. Handel]",
+    "length": 816,
+    "track_id": 1042951,
+    "release": "Harpsichord Works, Volume 3 (Sophie Yates)",
+    "art_url": "//cdn-images.audioaddict.com/3/7/d/9/6/f/37d96fb64cc4ac9a4df7071ec6c08b01.jpg",
+    "description_cover": "arafed image of a woman smiling and leaning on a piano with candles in the background and a green background with a gold border around her neck",
+    "description_tags": [
+      "arafed",
+      "image",
+      "woman",
+      "smiling",
+      "leaning",
+      "piano",
+      "candles",
+      "background",
+      "green",
+      "background",
+      "gold",
+      "border",
+      "around",
+      "her",
+      "neck"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8126057386398315,
+        "box": [
+          396,
+          653,
+          252,
+          242
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34, Act 1: Tornami A Vagheggiar [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34, Act 1: Tornami A Vagheggiar [G.F. Handel]",
+    "length": 266,
+    "track_id": 3016906,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34, Act 1: Di Te Mi Rido [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34, Act 1: Di Te Mi Rido [G.F. Handel]",
+    "length": 261,
+    "track_id": 3016905,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, William Bennett",
+    "title": "Trio sonata for 2 violins & continuo in G minor, Op. 2/2, HWV 387 [G.F. Handel]",
+    "track": "Academy of St. Martin-in-the-Fields Chamber Ensemble, Kenneth Sillito, William Bennett - Trio sonata for 2 violins & continuo in G minor, Op. 2/2, HWV 387 [G.F. Handel]",
+    "length": 552,
+    "track_id": 3010329,
+    "release": "Handel: The Complete Chamber Music (Disc 1)",
+    "art_url": "//cdn-images.audioaddict.com/0/e/c/9/3/b/0ec93b6026be21dee7194093b9f03032.jpg",
+    "description_cover": "a picture of a black and white photo of a musical instrument with a violin in the background and a key on the cover of a book with the title",
+    "description_tags": [
+      "picture",
+      "black",
+      "white",
+      "photo",
+      "musical",
+      "instrument",
+      "violin",
+      "background",
+      "key",
+      "cover",
+      "book",
+      "title"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Simon Preston, Trevor Pinnock, The Choir Of Westminster Abbey",
+    "title": "The King shall rejoice (Coronation Anthem No.3, HWV 260) [G.F. Handel]",
+    "track": "The English Concert, Simon Preston, Trevor Pinnock, The Choir Of Westminster Abbey - The King shall rejoice (Coronation Anthem No.3, HWV 260) [G.F. Handel]",
+    "length": 654,
+    "track_id": 1042919,
+    "release": "Coronation Anthems",
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/b/6/e/dc4b6e4c7e02c7f5efe8dd9b8f0b6783.jpg",
+    "description_cover": "a close up of a book with a coat of arms on it's cover and a picture of a lion on the front of it's cover",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "coat",
+      "arms",
+      "it's",
+      "cover",
+      "picture",
+      "lion",
+      "it's",
+      "cover"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "K. Sillito, M. Latchem, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble, Denis Vigay",
+    "title": "Sonata in F for 2 violons and continuo [G.F. Handel]",
+    "track": "K. Sillito, M. Latchem, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble, Denis Vigay - Sonata in F for 2 violons and continuo [G.F. Handel]",
+    "length": 789,
+    "track_id": 1040145,
+    "release": "Handel - Masterworks CD10",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy Of St. Martin In The Fields Chamber Ensemble",
+    "title": "Oboe Sonata in C minor, Op.1, No.8, HWV 366 [G.F. Handel]",
+    "track": "Academy Of St. Martin In The Fields Chamber Ensemble - Oboe Sonata in C minor, Op.1, No.8, HWV 366 [G.F. Handel]",
+    "length": 440,
+    "track_id": 1004796,
+    "release": null,
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto Grosso in A minor, Op.6, No.4, HWV 322 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto Grosso in A minor, Op.6, No.4, HWV 322 [G.F. Handel]",
+    "length": 633,
+    "track_id": 1030455,
+    "release": "Handel - Orchestral Works CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in C Minor Op. 6, No.8, HWV 326 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in C Minor Op. 6, No.8, HWV 326 [G.F. Handel]",
+    "length": 800,
+    "track_id": 2963063,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.3 in G minor, Op.4 No.3 HWV 291 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.3 in G minor, Op.4 No.3 HWV 291 [G.F. Handel]",
+    "length": 574,
+    "track_id": 1042167,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto a due cori No.1, HWV 332 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto a due cori No.1, HWV 332 [G.F. Handel]",
+    "length": 817,
+    "track_id": 1042901,
+    "release": "Handel - Masterworks CD08",
+    "art_url": "//cdn-images.audioaddict.com/f/c/f/4/7/b/fcf47b57c3c3f9de36823423d3d5a99f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7256491780281067,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto a due cori No.3, HWV 334 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto a due cori No.3, HWV 334 [G.F. Handel]",
+    "length": 822,
+    "track_id": 1042903,
+    "release": "Handel - Masterworks CD08",
+    "art_url": "//cdn-images.audioaddict.com/f/c/f/4/7/b/fcf47b57c3c3f9de36823423d3d5a99f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7256491780281067,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Concerto Grosso in G major, Op.3/3, HWV 314 [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Concerto Grosso in G major, Op.3/3, HWV 314 [G.F. Handel]",
+    "length": 410,
+    "track_id": 2991394,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Petri, M. Latchem, G. Malcolm, D. Vigay, M. Petipa, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Sonata in F major, Op.2 No.4 [G.F. Handel]",
+    "track": "M. Petri, M. Latchem, G. Malcolm, D. Vigay, M. Petipa, Academy of St. Martin in the Fields Chamber Ensemble - Sonata in F major, Op.2 No.4 [G.F. Handel]",
+    "length": 708,
+    "track_id": 1030472,
+    "release": "Handel - Complete Chamber Music CD01",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Monteverdi Choir, English Baroque Soloists,  J.E. Gardiner",
+    "title": "L' Allegro, il Penseroso ed il Moderato (Pastoral Ode), oratorio, HWV 55, Part 1 [G.F. Handel]",
+    "track": "Monteverdi Choir, English Baroque Soloists,  J.E. Gardiner - L' Allegro, il Penseroso ed il Moderato (Pastoral Ode), oratorio, HWV 55, Part 1 [G.F. Handel]",
+    "length": 3291,
+    "track_id": 1042965,
+    "release": "Handel - L'Allegro Il Penseroso ed Il Moderato CD1",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "King's College Choir of Cambridge, Brandenburg Consort",
+    "title": "Israel in Egypt, oratorio, HWV 54, The ways of Zion do mourn [G.F. Handel]",
+    "track": "King's College Choir of Cambridge, Brandenburg Consort - Israel in Egypt, oratorio, HWV 54, The ways of Zion do mourn [G.F. Handel]",
+    "length": 2494,
+    "track_id": 1042964,
+    "release": "Handel: Israel in Egypt, Disc 1",
+    "art_url": "//cdn-images.audioaddict.com/a/b/e/b/1/e/abeb1eb8a01b6d3245fcdf821df9e096.jpg",
+    "description_cover": "a close up of a concert poster with a picture of a man holding a microphone in front of a crowd of people in a red room with a red wall",
+    "description_tags": [
+      "close",
+      "up",
+      "concert",
+      "poster",
+      "picture",
+      "man",
+      "holding",
+      "microphone",
+      "crowd",
+      "people",
+      "red",
+      "room",
+      "red",
+      "wall"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.13 in F, HWV 295, 'Cuckoo and the Nightingale' [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.13 in F, HWV 295, 'Cuckoo and the Nightingale' [G.F. Handel]",
+    "length": 740,
+    "track_id": 1042983,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.8 in A, Op.7 No.2, HWV 307 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.8 in A, Op.7 No.2, HWV 307 [G.F. Handel]",
+    "length": 787,
+    "track_id": 1042988,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St Martin in Fields, N. Marriner",
+    "title": "Organ Concerto No.6 in B flat, Op.4 No.6 HWV 294 [G.F. Handel]",
+    "track": "Academy of St Martin in Fields, N. Marriner - Organ Concerto No.6 in B flat, Op.4 No.6 HWV 294 [G.F. Handel]",
+    "length": 677,
+    "track_id": 1042171,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in A Minor, HWV 374 \"Halle No. 1\" [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in A Minor, HWV 374 \"Halle No. 1\" [G.F. Handel]",
+    "length": 701,
+    "track_id": 3097374,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in B-flat Major Op. 6, No.7, HWV 325 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in B-flat Major Op. 6, No.7, HWV 325 [G.F. Handel]",
+    "length": 803,
+    "track_id": 2963062,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto grosso in G, Op.3, No.3, HWV 314 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto grosso in G, Op.3, No.3, HWV 314 [G.F. Handel]",
+    "length": 468,
+    "track_id": 1042915,
+    "release": "Concerti Grossi op. 6 & 3 [Marriner], Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/8/5/f/e/3/b/85fe3b6471ad536ee15a42e23bbd11a1.jpg",
+    "description_cover": "arafed image of a concert poster with a picture of a city in the background and a boat in the water in the foreground and a bridge in the foreground",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "poster",
+      "picture",
+      "city",
+      "background",
+      "boat",
+      "water",
+      "foreground",
+      "bridge",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in A Major Op. 6, No.11, HWV 329 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in A Major Op. 6, No.11, HWV 329 [G.F. Handel]",
+    "length": 975,
+    "track_id": 2963060,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Oboe Concerto in G minor (No.3), HWV 287 (possibly spurious) [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Oboe Concerto in G minor (No.3), HWV 287 (possibly spurious) [G.F. Handel]",
+    "length": 493,
+    "track_id": 3097382,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "description_cover": "arafed image of a man in a suit holding a trumpet in front of a building with a door and a window in the background and a tree",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "holding",
+      "trumpet",
+      "building",
+      "door",
+      "window",
+      "background",
+      "tree"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8103917241096497,
+        "box": [
+          266,
+          265,
+          267,
+          262
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Hugo Reyne, Jerome Hantai, Pascal Monteilhet, Pierre Hantai",
+    "title": "Sonata in G major, HWV 358 [G.F. Handel]",
+    "track": "Hugo Reyne, Jerome Hantai, Pascal Monteilhet, Pierre Hantai - Sonata in G major, HWV 358 [G.F. Handel]",
+    "length": 305,
+    "track_id": 3010327,
+    "release": "Complete sonatas for recorder & continuo",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/3/1/6/2993162bbdd841fd8b323a94e3b7aba4.jpg",
+    "description_cover": "a close up of a person holding a wooden stick in front of a red wall with a picture of a man in a brown shirt and a red shirt",
+    "description_tags": [
+      "close",
+      "up",
+      "person",
+      "holding",
+      "wooden",
+      "stick",
+      "red",
+      "wall",
+      "picture",
+      "man",
+      "brown",
+      "shirt",
+      "red",
+      "shirt"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7038942575454712,
+        "box": [
+          219,
+          340,
+          145,
+          155
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Solomon HWV 67 - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Solomon HWV 67 - Overture [G.F. Handel]",
+    "length": 308,
+    "track_id": 924729,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy Of St. Martin In The Fields Chamber Ensemble",
+    "title": "Oboe Sonata in B flat major, HWV 357 'G. F. Handel' [G.F. Handel]",
+    "track": "Academy Of St. Martin In The Fields Chamber Ensemble - Oboe Sonata in B flat major, HWV 357 'G. F. Handel' [G.F. Handel]",
+    "length": 455,
+    "track_id": 1043003,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alexander Balus, HWV 65, Act 3: Convey Me To Some Peaceful Shore [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alexander Balus, HWV 65, Act 3: Convey Me To Some Peaceful Shore [G.F. Handel]",
+    "length": 116,
+    "track_id": 3016910,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Baroque Soloists, John Eliot Gardiner",
+    "title": "Alcina, Ballet Music, HWV 34, Act 1 [G.F. Handel]",
+    "track": "English Baroque Soloists, John Eliot Gardiner - Alcina, Ballet Music, HWV 34, Act 1 [G.F. Handel]",
+    "length": 369,
+    "track_id": 1039913,
+    "release": "Handel - Alcina, Il pastor fido, Terpsichore (ballet music)",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto Grosso in E minor, Op.6, No.3, HWV 321 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto Grosso in E minor, Op.6, No.3, HWV 321 [G.F. Handel]",
+    "length": 720,
+    "track_id": 1030463,
+    "release": "Handel - Orchestral Works CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Rinaldo, HWV 7, Act 1: Venti Turbini [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Rinaldo, HWV 7, Act 1: Venti Turbini [G.F. Handel]",
+    "length": 163,
+    "track_id": 3016916,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Recorder Sonata in F major, Op.1, No.11, HWV 369 [G.F. Handel]",
+    "track": "M. Petri, Academy of St. Martin in the Fields Chamber Ensemble - Recorder Sonata in F major, Op.1, No.11, HWV 369 [G.F. Handel]",
+    "length": 406,
+    "track_id": 1043011,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson",
+    "title": "Flute Sonata in E Minor, HWV 375 \"Halle No. 2\" [G.F. Handel]",
+    "track": "Lisa Beznosiuk, Richard Tunnicliffe, Paul Nicholson - Flute Sonata in E Minor, HWV 375 \"Halle No. 2\" [G.F. Handel]",
+    "length": 429,
+    "track_id": 3097378,
+    "release": "Handel: The Complete Flute Sonatas",
+    "art_url": "//cdn-images.audioaddict.com/8/0/9/7/5/9/80975944fe424bffc775c455fcfc0382.jpg",
+    "description_cover": "a close up of a painting of a man and a woman holding a bird and a bird on a stick in a room with a painting of a woman",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "man",
+      "woman",
+      "holding",
+      "bird",
+      "bird",
+      "stick",
+      "room",
+      "painting",
+      "woman"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7544297575950623,
+        "box": [
+          123,
+          133,
+          61,
+          58
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6382710933685303,
+        "box": [
+          446,
+          211,
+          63,
+          64
+        ]
+      },
+      {
+        "class": "FEMALE_BREAST_COVERED",
+        "score": 0.29102495312690735,
+        "box": [
+          129,
+          270,
+          78,
+          75
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto Grosso in G, Op.6, No.1, HWV 319 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto Grosso in G, Op.6, No.1, HWV 319 [G.F. Handel]",
+    "length": 710,
+    "track_id": 1042916,
+    "release": "Handel - Orchestral Works CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields Chorus, Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Messiah, HWV 56, Part 2 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields Chorus, Academy of St. Martin in the Fields, Neville Marriner - Messiah, HWV 56, Part 2 [G.F. Handel]",
+    "length": 3185,
+    "track_id": 1042973,
+    "release": "Handel - Messiah Disc 2",
+    "art_url": "//cdn-images.audioaddict.com/e/a/9/e/d/b/ea9edb080edeb5e8985684813b874fa3.jpg",
+    "description_cover": "a close up of a painting of a baby in a manger with a manger in the background and a christmas scene in the background with a manger",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "baby",
+      "manger",
+      "manger",
+      "background",
+      "christmas",
+      "scene",
+      "background",
+      "manger"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.6157615780830383,
+        "box": [
+          104,
+          117,
+          73,
+          63
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Berenice, HWV 38 - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Berenice, HWV 38 - Overture [G.F. Handel]",
+    "length": 481,
+    "track_id": 924731,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz",
+    "title": "Organ Concerto No.5 in F, Op.4 No.5, HWV 293, Arr. for harp and orchestra by N.Zabaleta [G.F. Handel]",
+    "track": "Nicanor Zabaleta, Orchestre de Chambre Paul Kuentz, Paul Kuentz - Organ Concerto No.5 in F, Op.4 No.5, HWV 293, Arr. for harp and orchestra by N.Zabaleta [G.F. Handel]",
+    "length": 552,
+    "track_id": 1042169,
+    "release": "Bach - Handel Harp Concertos",
+    "art_url": "//cdn-images.audioaddict.com/2/9/9/b/4/0/299b40c982d7a930036c8b3e6784da37.png",
+    "description_cover": "bach handel, jw - concertos for piano and orchestra, vol 1, cd, digital remastered, digital remastered, cd, cd, cd",
+    "description_tags": [
+      "bach",
+      "handel,",
+      "jw",
+      "concertos",
+      "piano",
+      "orchestra,",
+      "vol",
+      "1,",
+      "cd,",
+      "digital",
+      "remastered,",
+      "digital",
+      "remastered,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Gábor Boldoczki, Sinfonia Varsovia",
+    "title": "Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341 [G.F. Handel]",
+    "track": "Gábor Boldoczki, Sinfonia Varsovia - Water Piece, suite for trumpet, strings & continuo in D major (spurious arrangement), HWV 341 [G.F. Handel]",
+    "length": 445,
+    "track_id": 3097384,
+    "release": "Gábor Boldoczki plays Händel & Telemann",
+    "art_url": "//cdn-images.audioaddict.com/8/2/3/e/7/6/823e76331ac69fcbf1d0abfa9d15665b.jpg",
+    "description_cover": "arafed image of a man in a suit holding a trumpet in front of a building with a door and a window in the background and a tree",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "holding",
+      "trumpet",
+      "building",
+      "door",
+      "window",
+      "background",
+      "tree"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.8103917241096497,
+        "box": [
+          266,
+          265,
+          267,
+          262
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Concerto à 4, for sopranino recorder, 2 violins & continuo in B flat major (spurious) [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Concerto à 4, for sopranino recorder, 2 violins & continuo in B flat major (spurious) [G.F. Handel]",
+    "length": 465,
+    "track_id": 2991393,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso In F, Op.3, No.4 HWV 315 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso In F, Op.3, No.4 HWV 315 [G.F. Handel]",
+    "length": 656,
+    "track_id": 1030464,
+    "release": "Handel - Orchestral Works CD3",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy Of St. Martin In The Fields Chamber Ensemble",
+    "title": "Recorder Sonata in C major, Op.1, No.7, HWV 365 [G.F. Handel]",
+    "track": "Academy Of St. Martin In The Fields Chamber Ensemble - Recorder Sonata in C major, Op.1, No.7, HWV 365 [G.F. Handel]",
+    "length": 591,
+    "track_id": 1043008,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/d/e/4/f/c/9/de4fc9ead41ea8eb31d0433dba830f39.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Water Music, Suites 2 & 3 in D/G, HWV 348 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Water Music, Suites 2 & 3 in D/G, HWV 348 [G.F. Handel]",
+    "length": 1389,
+    "track_id": 1030474,
+    "release": "Handel - Orchestral Works CD1",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Oboe Concerto No.1 in B flat, HWV 301 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Oboe Concerto No.1 in B flat, HWV 301 [G.F. Handel]",
+    "length": 496,
+    "track_id": 1042162,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Esther - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Esther - Overture [G.F. Handel]",
+    "length": 493,
+    "track_id": 924735,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.9 in B flat, Op.7 No.3 HWV 308 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.9 in B flat, Op.7 No.3 HWV 308 [G.F. Handel]",
+    "length": 790,
+    "track_id": 1042989,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Teseo, HWV 9 - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Teseo, HWV 9 - Overture [G.F. Handel]",
+    "length": 350,
+    "track_id": 924732,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Baroque Soloists, J.E. Gardiner",
+    "title": "Alcina, Ballet Music, HWV 34 - Prelude: Ouverture & Musette [G.F. Handel]",
+    "track": "English Baroque Soloists, J.E. Gardiner - Alcina, Ballet Music, HWV 34 - Prelude: Ouverture & Musette [G.F. Handel]",
+    "length": 299,
+    "track_id": 1042896,
+    "release": "Handel - Alcina, Il pastor fido, Terpsichore (ballet music)",
+    "art_url": "//cdn-images.audioaddict.com/2/5/7/d/8/5/257d8587a672a613464a13a4da02fe6f.png",
+    "description_cover": "a close up of a book cover with a painting of angels on it and a green background with black and white designs on it and a green background",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "cover",
+      "painting",
+      "angels",
+      "green",
+      "background",
+      "black",
+      "white",
+      "designs",
+      "green",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Sonata À 5 In B Flat, HWV 288 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Sonata À 5 In B Flat, HWV 288 [G.F. Handel]",
+    "length": 563,
+    "track_id": 3083757,
+    "release": "Handel: Alexander's Feast, 3 Oboe Concertos",
+    "art_url": "//cdn-images.audioaddict.com/c/e/e/5/2/5/cee52534ae80e4ab875e964126127e5e.jpg",
+    "description_cover": "a picture of a picture of a large building with a fountain in the middle of it and a garden in the middle of the picture and a fountain in the middle of the middle of the picture",
+    "description_tags": [
+      "picture",
+      "picture",
+      "large",
+      "building",
+      "fountain",
+      "middle",
+      "garden",
+      "middle",
+      "picture",
+      "fountain",
+      "middle",
+      "middle",
+      "picture"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Rinaldo, HWV 7, Act 3: Bel Piacere È Godere Fido Amor [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Rinaldo, HWV 7, Act 3: Bel Piacere È Godere Fido Amor [G.F. Handel]",
+    "length": 122,
+    "track_id": 3016919,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.2 in B flat, Op.4 No.2 HWV 290 - Adagio, e staccato - Allegro, ma non presto [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.2 in B flat, Op.4 No.2 HWV 290 - Adagio, e staccato - Allegro, ma non presto [G.F. Handel]",
+    "length": 258,
+    "track_id": 1042166,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.14 in A HWV 296 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.14 in A HWV 296 [G.F. Handel]",
+    "length": 969,
+    "track_id": 1042984,
+    "release": "Handel - Masterworks CD07",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "M. Latchem, K. Sillito, D. Vigay, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble",
+    "title": "Trio Sonata for 2 Violins and Continuo in B flat, Op.2, No.3, HWV 388 [G.F. Handel]",
+    "track": "M. Latchem, K. Sillito, D. Vigay, A. Cuckston, Academy of St. Martin in the Fields Chamber Ensemble - Trio Sonata for 2 Violins and Continuo in B flat, Op.2, No.3, HWV 388 [G.F. Handel]",
+    "length": 686,
+    "track_id": 1040138,
+    "release": "Handel - Complete Chamber Music CD1",
+    "art_url": "//cdn-images.audioaddict.com/9/0/b/6/f/c/90b6fcc372a73825abc8e618931c55c7.jpg",
+    "description_cover": "a close up of a poster of a musical instrument with a microphone on it's head and a handbell on the back of it's head",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "musical",
+      "instrument",
+      "microphone",
+      "it's",
+      "head",
+      "handbell",
+      "back",
+      "it's",
+      "head"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto grosso in C, HWV 318 'Alexander's Feast' [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto grosso in C, HWV 318 'Alexander's Feast' [G.F. Handel]",
+    "length": 777,
+    "track_id": 1030460,
+    "release": "Handel - Orchestral Works CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Michala Petri",
+    "title": "Recorder Sonata in B flat major, HWV 377 [G.F. Handel]",
+    "track": "Michala Petri - Recorder Sonata in B flat major, HWV 377 [G.F. Handel]",
+    "length": 355,
+    "track_id": 3010328,
+    "release": "Handel: Complete Wind Sonatas CD2",
+    "art_url": "//cdn-images.audioaddict.com/1/1/8/4/3/d/11843db10153544200f1fad0b9066bfa.jpg",
+    "description_cover": "a close up of a cd cover with a tree in the middle of it and a window in the background with a blue sky and clouds in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "tree",
+      "middle",
+      "window",
+      "background",
+      "blue",
+      "sky",
+      "clouds",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.5 in F, Op.4 No.5, HWV 293 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.5 in F, Op.4 No.5, HWV 293 [G.F. Handel]",
+    "length": 521,
+    "track_id": 1042170,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Olivier Baumont",
+    "title": "Capriccio in F major HWV481 [G.F. Handel]",
+    "track": "Olivier Baumont - Capriccio in F major HWV481 [G.F. Handel]",
+    "length": 283,
+    "track_id": 1042929,
+    "release": "Handel: Harpsichord Suites 1720 & 1733",
+    "art_url": "//cdn-images.audioaddict.com/f/f/c/e/1/b/ffce1b900683a5f3d65b2c54bb441b2c.jpg",
+    "description_cover": "arafed photograph of a man sitting in front of a piano and a green dot on the cover of a book, with a green circle in the background",
+    "description_tags": [
+      "arafed",
+      "photograph",
+      "man",
+      "sitting",
+      "piano",
+      "green",
+      "dot",
+      "cover",
+      "book,",
+      "green",
+      "circle",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7968131303787231,
+        "box": [
+          50,
+          132,
+          160,
+          164
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Concerto a quattro, for recorder, violin, bassoon & continuo in D minor (doubtful) [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Concerto a quattro, for recorder, violin, bassoon & continuo in D minor (doubtful) [G.F. Handel]",
+    "length": 572,
+    "track_id": 2991395,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Jephtha, HWV 70, Act 3 - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Jephtha, HWV 70, Act 3 - Overture [G.F. Handel]",
+    "length": 193,
+    "track_id": 924734,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Organ Concerto in G minor, Op.4/3, HWV 291 [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Organ Concerto in G minor, Op.4/3, HWV 291 [G.F. Handel]",
+    "length": 781,
+    "track_id": 2991399,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Simon Preston, Trevor Pinnock, The Choir Of Westminster Abbey",
+    "title": "Zadok the Priest (Coronation Anthem No. 1, HWV 258) [G.F. Handel]",
+    "track": "The English Concert, Simon Preston, Trevor Pinnock, The Choir Of Westminster Abbey - Zadok the Priest (Coronation Anthem No. 1, HWV 258) [G.F. Handel]",
+    "length": 320,
+    "track_id": 1042920,
+    "release": "Coronation Anthems",
+    "art_url": "//cdn-images.audioaddict.com/d/c/4/b/6/e/dc4b6e4c7e02c7f5efe8dd9b8f0b6783.jpg",
+    "description_cover": "a close up of a book with a coat of arms on it's cover and a picture of a lion on the front of it's cover",
+    "description_tags": [
+      "close",
+      "up",
+      "book",
+      "coat",
+      "arms",
+      "it's",
+      "cover",
+      "picture",
+      "lion",
+      "it's",
+      "cover"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Rinaldo, HWV 7: Overture [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Rinaldo, HWV 7: Overture [G.F. Handel]",
+    "length": 335,
+    "track_id": 3016914,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Water Music Suite No. 3 for orchestra in G major, HWV 350 - Menuetto [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Water Music Suite No. 3 for orchestra in G major, HWV 350 - Menuetto [G.F. Handel]",
+    "length": 115,
+    "track_id": 2991400,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Akademie für Alte Musik Berlin, Bernhard Forck",
+    "title": "Concerto grosso in D Minor Op. 6, No.10, HWV 328 [G.F. Handel]",
+    "track": "Akademie für Alte Musik Berlin, Bernhard Forck - Concerto grosso in D Minor Op. 6, No.10, HWV 328 [G.F. Handel]",
+    "length": 798,
+    "track_id": 2963064,
+    "release": "Handel Concerti Grossi Op.6 (7-12)",
+    "art_url": "//cdn-images.audioaddict.com/4/c/c/3/3/c/4cc33cc841afb603fe08c4d417eb9b07.jpg",
+    "description_cover": "a close up of a colorful spiral with a white background and a text underneath it that reads handel concert grossi op 71 - 12 akadeniefififi",
+    "description_tags": [
+      "close",
+      "up",
+      "colorful",
+      "spiral",
+      "white",
+      "background",
+      "text",
+      "underneath",
+      "reads",
+      "handel",
+      "concert",
+      "grossi",
+      "op",
+      "71",
+      "12",
+      "akadeniefififi"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Baroque Soloists,  J.E. Gardiner",
+    "title": "Hercules, HWV 60 - 1. Ouverture [G.F. Handel]",
+    "track": "The English Baroque Soloists,  J.E. Gardiner - Hercules, HWV 60 - 1. Ouverture [G.F. Handel]",
+    "length": 418,
+    "track_id": 1042955,
+    "release": "Handel: Hercules Disc 1",
+    "art_url": "//cdn-images.audioaddict.com/d/a/3/1/1/c/da311ce7f8c12da327b3a6cd913858d1.jpg",
+    "description_cover": "a close up of a painting of a group of people with angels on a painting of a man and woman in a bed with other people in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "painting",
+      "group",
+      "people",
+      "angels",
+      "painting",
+      "man",
+      "woman",
+      "bed",
+      "other",
+      "people",
+      "background"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.38027721643447876,
+        "box": [
+          454,
+          446,
+          57,
+          65
+        ]
+      },
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.34254106879234314,
+        "box": [
+          387,
+          445,
+          59,
+          60
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.10 in D minor, Op.7 No.4 HWV 309 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.10 in D minor, Op.7 No.4 HWV 309 [G.F. Handel]",
+    "length": 976,
+    "track_id": 1042977,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.2 in B flat, Op.4 No.2 HWV 290 - A tempo ordinario, e staccato - Allegro [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.2 in B flat, Op.4 No.2 HWV 290 - A tempo ordinario, e staccato - Allegro [G.F. Handel]",
+    "length": 325,
+    "track_id": 1042165,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto grosso in B flat, Op.3, No.1, HWV 312 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto grosso in B flat, Op.3, No.1, HWV 312 [G.F. Handel]",
+    "length": 565,
+    "track_id": 1042906,
+    "release": "Concerti Grossi op. 6 & 3 [Marriner], Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/8/5/f/e/3/b/85fe3b6471ad536ee15a42e23bbd11a1.jpg",
+    "description_cover": "arafed image of a concert poster with a picture of a city in the background and a boat in the water in the foreground and a bridge in the foreground",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "poster",
+      "picture",
+      "city",
+      "background",
+      "boat",
+      "water",
+      "foreground",
+      "bridge",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.4 in F, Op.4 No.4 HWV 292 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.4 in F, Op.4 No.4 HWV 292 [G.F. Handel]",
+    "length": 854,
+    "track_id": 1042168,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "The English Concert, Trevor Pinnock",
+    "title": "Concerto Grosso in F, Op.6, No.2, HWV 320 [G.F. Handel]",
+    "track": "The English Concert, Trevor Pinnock - Concerto Grosso in F, Op.6, No.2, HWV 320 [G.F. Handel]",
+    "length": 691,
+    "track_id": 1030465,
+    "release": "Handel - Orchestral Works CD4",
+    "art_url": "//cdn-images.audioaddict.com/3/a/9/c/9/8/3a9c98dbef4b03bf7c5696dcf539569f.jpg",
+    "description_cover": "handel, the english concert, tronop, piano, cd, cd, cd, cd, cd, cd, cd, cd, cd",
+    "description_tags": [
+      "handel,",
+      "english",
+      "concert,",
+      "tronop,",
+      "piano,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd,",
+      "cd"
+    ],
+    "nude_net": [
+      {
+        "class": "FEMALE_BREAST_EXPOSED",
+        "score": 0.2617883086204529,
+        "box": [
+          117,
+          0,
+          260,
+          190
+        ]
+      }
+    ],
+    "nsfw": true
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Concerto grosso in F, Op.3, No.4 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Concerto grosso in F, Op.3, No.4 [G.F. Handel]",
+    "length": 683,
+    "track_id": 1042912,
+    "release": "Concerti Grossi op. 6 & 3 [Marriner], Disc 3",
+    "art_url": "//cdn-images.audioaddict.com/8/5/f/e/3/b/85fe3b6471ad536ee15a42e23bbd11a1.jpg",
+    "description_cover": "arafed image of a concert poster with a picture of a city in the background and a boat in the water in the foreground and a bridge in the foreground",
+    "description_tags": [
+      "arafed",
+      "image",
+      "concert",
+      "poster",
+      "picture",
+      "city",
+      "background",
+      "boat",
+      "water",
+      "foreground",
+      "bridge",
+      "foreground"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.1 in G minor, Op.4 No.1 HWV 289 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.1 in G minor, Op.4 No.1 HWV 289 [G.F. Handel]",
+    "length": 844,
+    "track_id": 1042164,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "English Chamber Orchestra, Richard Bonynge",
+    "title": "Rinaldo, HWV 7a - Overture [G.F. Handel]",
+    "track": "English Chamber Orchestra, Richard Bonynge - Rinaldo, HWV 7a - Overture [G.F. Handel]",
+    "length": 347,
+    "track_id": 924736,
+    "release": "Handel - Overtures of the 18th Century",
+    "art_url": "//cdn-images.audioaddict.com/f/9/1/1/c/a/f911ca676fb0361a38b33bbbfcb6e745.png",
+    "description_cover": "a close up of a window with flowers on the outside of it and a picture of a building with a window box on the outside of it and a window",
+    "description_tags": [
+      "close",
+      "up",
+      "window",
+      "flowers",
+      "outside",
+      "picture",
+      "building",
+      "window",
+      "box",
+      "outside",
+      "window"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.12 in B flat, Op.7 No.6 HWV 311 - 1. Pomposo [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.12 in B flat, Op.7 No.6 HWV 311 - 1. Pomposo [G.F. Handel]",
+    "length": 195,
+    "track_id": 1042981,
+    "release": "Handel - Masterworks CD06",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.7 in B flat, Op.7 No.1 HWV 306 [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.7 in B flat, Op.7 No.1 HWV 306 [G.F. Handel]",
+    "length": 1112,
+    "track_id": 1042987,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Rêveuse, Florence Bolton, Benjamin Perrot",
+    "title": "Hornpipe Compos'd for the Concert at Vauxhall, HWV 356 [G.F. Handel]",
+    "track": "La Rêveuse, Florence Bolton, Benjamin Perrot - Hornpipe Compos'd for the Concert at Vauxhall, HWV 356 [G.F. Handel]",
+    "length": 103,
+    "track_id": 3082064,
+    "release": "London circa 1740: Handel's musicians",
+    "art_url": "//cdn-images.audioaddict.com/b/6/3/d/3/3/b63d337d42d43f5a3250b5b9d643a12d.jpg",
+    "description_cover": "a picture of a painting of a building in a park with people walking around it and a dog sitting on a bench in the foreground of the picture",
+    "description_tags": [
+      "picture",
+      "painting",
+      "building",
+      "park",
+      "people",
+      "walking",
+      "around",
+      "dog",
+      "sitting",
+      "bench",
+      "foreground",
+      "picture"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Stefan Temmingh & Ensemble",
+    "title": "Alcina, HWV 34: Musette [G.F. Handel]",
+    "track": "Stefan Temmingh & Ensemble - Alcina, HWV 34: Musette [G.F. Handel]",
+    "length": 94,
+    "track_id": 3016904,
+    "release": "The Gentleman's Flute - Stefan Temmingh & Ensemble",
+    "art_url": "//cdn-images.audioaddict.com/7/3/f/f/a/f/73ffaf5cbeb6ca8b969bc8c7265adea3.jpg",
+    "description_cover": "arafed image of a man in a suit and tie sitting on a stair case with his hands folded over his chest and his face resting on his chest",
+    "description_tags": [
+      "arafed",
+      "image",
+      "man",
+      "suit",
+      "tie",
+      "sitting",
+      "stair",
+      "case",
+      "hands",
+      "folded",
+      "over",
+      "chest",
+      "face",
+      "resting",
+      "chest"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_MALE",
+        "score": 0.6992696523666382,
+        "box": [
+          541,
+          307,
+          236,
+          261
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "Academy of St. Martin in the Fields, Neville Marriner",
+    "title": "Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 1. Allegro ma non troppo e staccato [G.F. Handel]",
+    "track": "Academy of St. Martin in the Fields, Neville Marriner - Organ Concerto No.11 in G minor, Op.7 No.5 HWV 310 - 1. Allegro ma non troppo e staccato [G.F. Handel]",
+    "length": 218,
+    "track_id": 1042978,
+    "release": "Handel - Masterworks CD05",
+    "art_url": "//cdn-images.audioaddict.com/a/5/c/6/2/1/a5c621fa77197dfa7c5a1e7d99dcc42f.jpg",
+    "description_cover": "a close up of a cd cover of a man with a red coat and white hair and a black button on it's chest and a red jacket",
+    "description_tags": [
+      "close",
+      "up",
+      "cd",
+      "cover",
+      "man",
+      "red",
+      "coat",
+      "white",
+      "hair",
+      "black",
+      "button",
+      "it's",
+      "chest",
+      "red",
+      "jacket"
+    ],
+    "nude_net": [
+      {
+        "class": "FACE_FEMALE",
+        "score": 0.7258532643318176,
+        "box": [
+          91,
+          153,
+          198,
+          207
+        ]
+      }
+    ],
+    "nsfw": false
+  },
+  {
+    "channel_id": 376,
+    "artist": "La Simphonie du Marais, Hugo Reyne",
+    "title": "Alcina, opera, HWV 34 - Tamburino [G.F. Handel]",
+    "track": "La Simphonie du Marais, Hugo Reyne - Alcina, opera, HWV 34 - Tamburino [G.F. Handel]",
+    "length": 88,
+    "track_id": 2991392,
+    "release": "Haendel: Six Concertos pour flûte à bec",
+    "art_url": "//cdn-images.audioaddict.com/b/3/9/7/5/a/b3975a99a7e28e3d061df3f47a380419.jpg",
+    "description_cover": "a close up of a poster of a man in a green suit and red hat with a castle in the background and a green sky in the background",
+    "description_tags": [
+      "close",
+      "up",
+      "poster",
+      "man",
+      "green",
+      "suit",
+      "red",
+      "hat",
+      "castle",
+      "background",
+      "green",
+      "sky",
+      "background"
+    ],
+    "nude_net": [],
+    "nsfw": false
+  }
+]
